@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<companies>
+
+	<company>
+		<name>Disney</name>
+		<established>16/10/1923</established>
+		<revenue>$59.434 billion </revenue>
+		<CEO>
+			<name>Robert Iger</name>
+			<birth></birth>
+			<origin></origin>
+		</CEO>
+		<industry>Entertainment</industry>
+		<employees>201.000</employees>
+		
+	</company>
+
+	
+</companies>
