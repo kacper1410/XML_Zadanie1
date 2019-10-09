@@ -2,17 +2,131 @@
 
 <companies>
 
-	<company>
+	<company industry="IT" country="US" name="Apple" ID="1">
+		
+		<name>Apple</name>
+		<founded>01/04/1976</founded>
+		<value>$961.3 billion </value>
+		<CEO sex="male">
+			<name>Tim Cook</name>
+			<birthday>01/11/1960</birthday>
+			<birthplace>Mobile, Alabama, U.S.</birthplace>
+		</CEO>
+		<industry>IT</industry>
+		<employees>132.000</employees>
+		<description>Apple Inc. is an American multinational technology company headquartered in Cupertino, California, that designs, develops, and sells consumer electronics, computer software, and online services. It is considered one of the Big Four tech companies along with Amazon, Google, and Facebook.</description>
+		
+	</company>
+
+	<company industry="IT" country="US" name="Microsoft" ID="2">
+		
+		<name>Microsoft</name>
+		<founded>04/04/1975</founded>
+		<value>$946.5 billion </value>
+		<CEO sex="male">
+			<name>Tim Cook</name>
+			<birthday>19/08/1967</birthday>
+			<birthplace>Hyderabad, Telangana, India</birthplace>
+		</CEO>
+		<industry>IT</industry>
+		<employees>144,106</employees>
+		<description>Microsoft Corporation is an American multinational technology company with headquarters in Redmond, Washington. It develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services.</description>
+		
+	</company>
+
+	<company industry="IT" country="US" name="Amazon" ID="3">
+		
+		<name>Amazon</name>
+		<founded>05/07/1994</founded>
+		<value>$946.5 billion </value>
+		<CEO sex="male">
+			<name>Jeff Bezos</name>
+			<birthday>12/01/1964</birthday>
+			<birthplace>Albuquerque, New Mexico, U.S.</birthplace>
+		</CEO>
+		<industry>IT</industry>
+		<employees>647,500</employees>
+		<description>Amazon is the largest Internet company by revenue in the world. It is the second largest private employer in the United States and one of the world's most valuable companies. Amazon is the second largest technology company by revenue. Amazon was founded by Jeff Bezos on July 5, 1994, in Bellevue, Washington.</description>
+		
+	</company>
+
+	<company industry="Conglomerate" country="US" name="Alphabet" ID="4">
+		
+		<name>Alphabet</name>
+		<founded>02/10/2015</founded>
+		<value>$863.2 billion </value>
+		<CEO sex="male">
+			<name>Larry Page </name>
+			<birthday>26/03/1973</birthday>
+			<birthplace>Lansing, Michigan, U.S.</birthplace>
+		</CEO>
+		<industry>IT</industry>
+		<employees>103,549</employees>
+		<description>Alphabet, Inc. is a holding company, which engages in the business of acquisition and operation of different companies. It operates through the Google and Other Bets segments. The Google segment includes its main Internet products such as Ads, Android, Chrome, Commerce, Google Cloud, Google Maps, Google Play, Hardware, Search, and YouTube.</description>
+		
+	</company>
+
+	<company industry="Conglomerate" country="US" name="Berkshire Hathaway" ID="5">
+		
+		<name>Berkshire Hathaway</name>
+		<founded>1839</founded>
+		<value>$516.4 billion </value>
+		<CEO sex="male">
+			<name>Larry Page</name>
+			<birthday>30/08/1930</birthday>
+			<birthplace>Omaha, Nebraska, U.S.</birthplace>
+		</CEO>
+		<industry>Conglomerate</industry>
+		<employees>389,373</employees>
+		<description>Berkshire Hathaway is a holding company for a multitude of businesses. It's run by chairman and CEO Warren Buffett. Berkshire Hathaway is headquartered in Omaha, Nebraska and was originally a company comprised of a group of textile milling plants.</description>
+		
+	</company>
+
+	<company industry="Social media" country="US" name="Facebook" ID="6">
+		
+		<name>Facebook</name>
+		<founded>04/02/2004</founded>
+		<value>$512 billion </value>
+		<CEO sex="male">
+			<name>Mark Zuckerberg</name>
+			<birthday>14/05/1984</birthday>
+			<birthplace>White Plains, New York, U.S.</birthplace>
+		</CEO>
+		<industry>Social media</industry>
+		<employees>39,651</employees>
+		<description>Facebook, Inc. engages in the development of social media applications for people to connect through mobile devices, personal computers, and other surfaces. It enables users to share opinions, ideas, photos, videos, and other activities online.</description>
+		
+	</company>
+
+	<company industry="Conglomerate" country="China" name="Alibaba" ID="7">
+		
+		<name>Alibaba</name>
+		<founded>04/04/1999</founded>
+		<value>$512 billion </value>
+		<CEO sex="male">
+			<name>Daniel Zhang</name>
+			<birthday>11/01/1972</birthday>
+			<birthplace>Shanghai, China</birthplace>
+		</CEO>
+		<industry>Conglomerate</industry>
+		<employees>101,958</employees>
+		<description>Alibaba is China's — and by some measures, the world's — biggest online commerce company. Its three main sites — Taobao, Tmall and Alibaba.com — have hundreds of millions of users, and host millions of merchants and businesses. Alibaba handles more business than any other e-commerce company</description>
+		
+	</company>
+
+	<company industry="Entertainment" country="US" name="Disney" ID="24">
+
 		<name>Disney</name>
-		<established>16/10/1923</established>
-		<revenue>$59.434 billion </revenue>
-		<CEO>
+		<founded>16/10/1923</founded>
+		<value>$238.1 billion </value>
+		<CEO sex="male">
 			<name>Robert Iger</name>
-			<birth></birth>
-			<origin></origin>
+			<birthday>10/02/1951</birthday>
+			<birthplace>New York City, New York, U.S.</birthplace>
 		</CEO>
 		<industry>Entertainment</industry>
 		<employees>201.000</employees>
+		<description>The Walt Disney Co. is a diversified international family entertainment and media enterprise. It operates through the following segments: Media Networks, Parks and Resorts, Studio Entertainment and Consumer Products and Interactive Media.</description>
 		
 	</company>
 
