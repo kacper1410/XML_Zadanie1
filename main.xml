@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/css" href="style.css"?>
 
 <companies>
+
+	 <header>
+        <title>The World's Most Valuable Brands</title>
+        <authors>Prace Stworzyli:</authors>
+        <author>Kacper Świercz 224443</author>
+        <author>Patryk Kolanek 224333</author>
+    </header>
 
 	<company industry="IT" country="US" name="Apple" ID="1">
 		
