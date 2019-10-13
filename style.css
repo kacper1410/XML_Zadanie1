@@ -1,5 +1,6 @@
 companies{
-	background-color:#00FF00;
+	background-image: #808080;
+	/* background-repeat: no-repeat; */
 	/* tutaj można dać obrazek w tle */
 }
 
@@ -7,6 +8,7 @@ header > * {
 	display: block;
 	text-align: center;
 	font-size: 20px;
+	font-weight: bold;
 	
 }
 
@@ -25,18 +27,32 @@ header > author{
 }
 
 company {
+	transition: 0.2s;
 	display: block;
 	text-align: center;
 	margin-top: 15px;
 	border: solid 3px #999999;
 }
 
+company:hover {
+	font-size: 25px;
+}
+
+company:hover > name {
+	font-size: 30px;
+	font-weight: bold;
+	font-style: oblique;
+}
+
 name {
+	display: block;
+	text-align: center;
+	font-size: 20px;
+	font-weight: bold;
+}
+
+industry, employees, birthplace, birthday, ceo, founded  {
 	display: block;
 	text-align: center;
 }
 
-founded {
-	display: block;
-	text-align: center;
-}

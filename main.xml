@@ -21,7 +21,7 @@
 			<birthplace>Mobile, Alabama, U.S.</birthplace>
 		</CEO>
 		<industry>IT</industry>
-		<employees>132.000</employees>
+		<employees>132,000</employees>
 		<description>Apple Inc. is an American multinational technology company headquartered in Cupertino, California, that designs, develops, and sells consumer electronics, computer software, and online services. It is considered one of the Big Four tech companies along with Amazon, Google, and Facebook.</description>
 		
 	</company>
@@ -137,8 +137,6 @@
 		<description>Tencent Holdings Limited operates as an investment holding company. The Company, through its subsidiaries, provides Internet and mobile value-added services (VAS), online advertising, and e-commerce transactions. Tencent Holdings offers services to users worldwide.</description>
 		
 	</company>
-		
-	</company>
 
 	<company industry="Financial" country="US" name="JPMorgan Chase" ID="9">
 		
@@ -152,13 +150,14 @@
 		</CEO>
 		<industry>Financial</industry>
 		<employees>254,983</employees>
-		<description>JPMorgan Chase &amp Co. is a financial holding company. The Company is engaged in investment banking, financial services. It operates in four segments, as well as a Corporate segment. Its segments are Consumer &amp Community Banking, Corporate &amp Investment Bank, Commercial Banking and Asset Management.</description>
+		<description>JPMorgan Chase &amp; Co. is a financial holding company. The Company is engaged in investment banking, financial services. It operates in four segments, as well as a Corporate segment. Its segments are Consumer &amp; Community Banking, Corporate &amp; Investment Bank, Commercial Banking and Asset Management.
+		</description>
 		
 	</company>
 
-	<company industry="Medical" country="US" name="Johnson &amp Johnson" ID="10">
+	<company industry="Medical" country="US" name="Johnson &amp; Johnson" ID="10">
 		
-		<name>Johnson &amp Johnson</name>
+		<name>Johnson &amp; Johnson</name>
 		<founded>1886</founded>
 		<value>$366.2 billion </value>
 		<CEO sex="male">
@@ -168,7 +167,8 @@
 		</CEO>
 		<industry>Medical</industry>
 		<employees>134,000</employees>
-		<description>Johnson &amp Johnson is a holding company, which engages in the research and development, manufacture and sale of products in the health care field. It operates through the following segments: Consumer, Pharmaceutical, and Medical Devices.</description>
+		<description>Johnson &amp; Johnson is a holding company, which engages in the research and development, manufacture and sale of products in the health care field. It operates through the following segments: Consumer, Pharmaceutical, and Medical Devices.
+		</description>
 		
 	</company>
 
@@ -204,8 +204,6 @@
 		
 	</company>
 		
-	</company>
-
 	<company industry="Financial" country="China" name="ICBC" ID="13">
 		
 		<name>ICBC</name>
@@ -286,9 +284,9 @@
 		
 	</company>
 
-	<company industry="Consumer goods" country="South Korea" name="Procter &amp Gamble" ID="18">
+	<company industry="Consumer goods" country="South Korea" name="Procter &amp; Gamble" ID="18">
 		
-		<name>Procter &amp Gamble</name>
+		<name>Procter &amp; Gamble</name>
 		<founded>31/10/1837</founded>
 		<value>$265.3 billion </value>
 		<CEO sex="male">
@@ -298,7 +296,7 @@
 		</CEO>
 		<industry>Consumer goods</industry>
 		<employees>97,000</employees>
-		<description>The Procter &amp Gamble Company is focused on providing branded consumer packaged goods to the consumers across the world. The Company operates through five segments: Beauty; Grooming; Health Care; Fabric &amp Home Care, and Baby, Feminine &amp Family Care.</description>
+		<description>The Procter &amp; Gamble Company is focused on providing branded consumer packaged goods to the consumers across the world. The Company operates through five segments: Beauty; Grooming; Health Care; Fabric &amp; Home Care, and Baby, Feminine &amp; Family Care.</description>
 		
 	</company>
 
@@ -334,7 +332,7 @@
 		
 	</company>
 
-	<company industry="Networking hardware &amp software" country="US" name="Cisco" ID="21">
+	<company industry="Networking hardware &amp; software" country="US" name="Cisco" ID="21">
 
 		<name>Cisco</name>
 		<founded>10/12/1984</founded>
@@ -344,7 +342,7 @@
 			<birthday>23/08/1949</birthday>
 			<birthplace>Cleveland, Ohio, U.S.</birthplace>
 		</CEO>
-		<industry>Networking hardware &amp software</industry>
+		<industry>Networking hardware &amp; software</industry>
 		<employees>74.200</employees>
 		<description>Cisco Systems, Inc. is an American multinational technology conglomerate headquartered in San Jose, California, in the center of Silicon Valley. Cisco develops, manufactures and sells networking hardware, telecommunications equipment and other high-technology services and products.
 		</description>
@@ -395,13 +393,13 @@
 		</CEO>
 		<industry>Entertainment</industry>
 		<employees>201.000</employees>
-		<description>The Walt Disney Co. is a diversified international family entertainment and media enterprise. It operates through the following segments: Media Networks, Parks &amp Resorts, Studio Entertainment and Consumer Products &amp Interactive Media.</description>
+		<description>The Walt Disney Co. is a diversified international family entertainment and media enterprise. It operates through the following segments: Media Networks, Parks &amp; Resorts, Studio Entertainment and Consumer Products &amp; Interactive Media.</description>
 		
 	</company>
 
-	<company industry="Telecommunications" country="US" name="AT&ampT" ID="25">
+	<company industry="Telecommunications" country="US" name="AT&amp;T" ID="25">
 
-		<name>AT&ampT</name>
+		<name>AT&amp;T</name>
 		<founded>05/10/1983</founded>
 		<value>$233.3 billion </value>
 		<CEO sex="male">
@@ -411,7 +409,7 @@
 		</CEO>
 		<industry>Telecommunications</industry>
 		<employees>273.210</employees>
-		<description>AT&ampT Communications provides mobile, broadband, video and other communications services to U.S.-based consumers and nearly 3 million companies globally - from the smallest business to nearly all the Fortune 1000 - with highly secure, smart solutions.</description>
+		<description>AT&amp;T Communications provides mobile, broadband, video and other communications services to U.S.-based consumers and nearly 3 million companies globally - from the smallest business to nearly all the Fortune 1000 - with highly secure, smart solutions.</description>
 		
 	</company>
 
@@ -448,7 +446,7 @@
 		
 	</company>
 
-	<company industry="Banking" country="China" name="China Construction Bank" ID="28">
+	<company industry="Financial" country="China" name="China Construction Bank" ID="28">
 
 		<name>China Construction Bank</name>
 		<founded>1954</founded>
@@ -458,7 +456,7 @@
 			<birthday>15/07/1954</birthday>
 			<birthplace>Changtu County, Liaoning, China</birthplace>
 		</CEO>
-		<industry>Banking</industry>
+		<industry>Financial</industry>
 		<employees>345.971</employees>
 		<description>China Construction Bank Corporation (CCB) is one of the "big four" banks in the People's Republic of China.In 2015 CCB was the 2nd largest bank in the world by market capitalization and 6th largest company in the world.
 		</description>
@@ -482,7 +480,7 @@
 		
 	</company>
 
-	<company industry="Semiconductors" country="US" name="Taiwan Semiconductor" ID="30">
+	<company industry="Semiconductors" country="Taiwan" name="Taiwan Semiconductor" ID="30">
 
 		<name>Taiwan Semiconductor</name>
 		<founded>1987</founded>
@@ -498,7 +496,5 @@
 		</description>
 		
 	</company>
-
-
 	
 </companies>
