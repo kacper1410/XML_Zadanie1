@@ -1,0 +1,66 @@
+<?xml encoding="UTF-8"?>
+
+<!ELEMENT companies (header,company+)>
+<!ATTLIST companies
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT header (title,authors,author+)>
+<!ATTLIST header
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT company (name,founded,value,CEO,industry,employees,description)>
+<!ATTLIST company
+    xmlns CDATA #FIXED ''
+    ID  #REQUIRED
+    country CDATA #REQUIRED
+    industry CDATA #REQUIRED
+    name CDATA #REQUIRED>
+
+<!ELEMENT title (#PCDATA)>
+<!ATTLIST title
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT authors (#PCDATA)>
+<!ATTLIST authors
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT author (#PCDATA)>
+<!ATTLIST author
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT founded (#PCDATA)>
+<!ATTLIST founded
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT value (#PCDATA)>
+<!ATTLIST value
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT CEO (name,birthday,birthplace)>
+<!ATTLIST CEO
+    xmlns CDATA #FIXED ''
+    sex  #REQUIRED>
+
+<!ELEMENT industry (#PCDATA)>
+<!ATTLIST industry
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT employees (#PCDATA)>
+<!ATTLIST employees
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT description (#PCDATA)>
+<!ATTLIST description
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT birthday (#PCDATA)>
+<!ATTLIST birthday
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT birthplace (#PCDATA)>
+<!ATTLIST birthplace
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT name (#PCDATA)>
+<!ATTLIST name
+    xmlns CDATA #FIXED ''>
