@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE companies SYSTEM "main.dtd">
 <?xml-stylesheet type="text/css" href="style.css"?>
 
 <companies>
