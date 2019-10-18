@@ -1,41 +1,110 @@
 companies{
-	background-image: #808080;
+	background-image: linear-gradient(to right, rgba(135,199,80,25%) , rgba(75,153,139,25%));
+	height: 100%;
+	display: block;
 	/* background-repeat: no-repeat; */
 	/* tutaj można dać obrazek w tle */
 }
 
-header > * {
-	display: block;
+header {
+    color: #256D7B;
+    font-weight: bold;
+    display: block;
+    margin-top: 30px;
+    margin-bottom: 20px;
 	text-align: center;
-	font-size: 20px;
-	font-weight: bold;
-	
 }
 
-header > title{
+title {
 	font-size: 40px;
 	text-transform: uppercase;
 	word-spacing: 10px;
 }
 
-header > authors{
-	margin-top: 5px;
+author {
+	display: block;
+	font-size: 30px;
+	margin-top: 10px;
+	text-align: center;
 }
 
-header > author{
-	margin-top: 3px;
+CEOs {
+    text-indent: 100%;
+    white-space: nowrap;
+    overflow: hidden;
+	color:transparent;
+	font-size: 0px;
 }
+
+industries {
+    text-indent: 100%;
+    white-space: nowrap;
+    overflow: hidden;
+	color:transparent;
+	font-size: 0px;
+}
+
 
 company {
 	transition: 0.2s;
 	display: block;
+	width: 47%;
+	margin-left: 1%;
+	margin-right: 1%;
+	height: 300px;
+	float: left;
 	text-align: center;
 	margin-top: 15px;
 	border: solid 3px #999999;
+	overflow: auto;
 }
 
-company:hover {
-	font-size: 25px;
+company:hover[industry = "IT"] {
+	background-image: linear-gradient(rgba(212,199,80,10%), rgba(34,87,139,10%));
+}
+
+company:hover[industry = "Conglomerate"] {
+	background-image: linear-gradient(rgba(243,12,34,10%), rgba(32,21,115,10%));
+} 
+
+company:hover[industry = "Social media"] {
+	background-image: linear-gradient(rgba(21,14,222,10%), rgba(212,112,139,10%));
+}
+
+company:hover[industry = "Financial"] {
+	background-image: linear-gradient(rgba(1,221,12,10%), rgba(123,212,122,10%));
+}
+
+company:hover[industry = "Medical"] {
+	background-image: linear-gradient(rgba(23,221,211,10%), rgba(32,12,221,10%));
+}
+
+company:hover[industry = "Oil and gas"] {
+	background-image: linear-gradient(rgba(135,12,197,10%), rgba(23,221,26,10%));
+}
+
+company:hover[industry = "Retail"] {
+	background-image: linear-gradient(rgba(135,222,180,10%), rgba(3,86,67,10%));
+}
+
+company:hover[industry = "Food"] {
+	background-image: linear-gradient(rgba(221,199,94,10%), rgba(199,153,139,10%));
+}
+
+company:hover[industry = "Consumer goods"] {
+	background-image: linear-gradient(rgba(135,199,210,10%), rgba(43,153,139,10%));
+}
+
+company:hover[industry = "Telecommunications"] {
+	background-image: linear-gradient(rgba(135,128,80,10%), rgba(72,153,23,10%));
+}
+
+company:hover[industry = "Entertainment"] {
+	background-image: linear-gradient(rgba(135,128,115,10%), rgba(92,153,122,10%));
+}
+
+company:hover[industry = "Semiconductors"] {
+	background-image: linear-gradient(rgba(135,128,68,10%), rgba(132,153,43,10%));
 }
 
 company:hover > name {
@@ -44,15 +113,32 @@ company:hover > name {
 	font-style: oblique;
 }
 
-name {
+company > founded:before {
+	display: block;
+	text-align: center;
+	content: "Founded: ";
+}
+
+company > value:before {
+	display: block;
+	text-align: center;
+	content: "Value: ";
+}
+
+company > name {
 	display: block;
 	text-align: center;
 	font-size: 20px;
 	font-weight: bold;
 }
 
-industry, employees, birthplace, birthday, ceo, founded  {
+/*CEO {
+	visibility: visible;
+	float: left;
+}*/
+
+founder {
+	list-style-type: disc;
 	display: block;
 	text-align: center;
 }
-

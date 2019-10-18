@@ -6,7 +6,6 @@
 
 	 <header>
         <title>The World's Most Valuable Brands</title>
-        <authors>Prace Stworzyli:</authors>
         <author>Kacper Świercz 224443</author>
         <author>Patryk Kolanek 224333</author>
     </header>
@@ -170,14 +169,14 @@
 		<industry industry="Social media">Social media</industry>
 		<industry industry="Financial">Financial</industry>
 		<industry industry="Medical">Medical</industry>
-		<industry industry="Oil and gas">IT</industry>
+		<industry industry="Oil and gas">Oil and gas</industry>
 		<industry industry="Retail">Retail</industry>
 		<industry industry="Food">Food</industry>
 		<industry industry="Consumer goods">Consumer goods</industry>
 		<industry industry="Telecommunications">Telecommunications</industry>
 		<industry industry="Entertainment">Entertainment</industry>
 		<industry industry="Semiconductors">Semiconductors</industry>
-	<industries/>
+	</industries>
 
 	<company industry="IT" country="US" name="Apple" CEO_ID="C1" company_ID="Co1">
 		
