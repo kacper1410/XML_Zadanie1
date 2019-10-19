@@ -34,16 +34,16 @@
 		<people>
 			<employees>132,000</employees>
 			<key_people>
-				<founders>
-				    <founder>Steve Jobs</founder>
-				    <founder>Steve Wozniak</founder>
-				    <founder>Ronald Wayne</founder>				   
-				</founders>
 				<CEO sex="male">
 					<name>Tim Cook</name>
 					<birthday format="Date">01/11/1960</birthday>
 					<birthplace>Hyderabad, Telangana, India</birthplace>
 				</CEO>
+				<founders>
+				    <founder>Steve Jobs</founder>
+				    <founder>Steve Wozniak</founder>
+				    <founder>Ronald Wayne</founder>				   
+				</founders>
 				<person office="Chairman">Arthur D. Levinson</person>
 				<person office="COO">Jeff Williams</person>
 			</key_people>
@@ -60,15 +60,15 @@
 		<people>
 			<employees>144,106</employees>
 			<key_people>	
-				<founders>
-				    <founder>Bill Gates</founder>
-				    <founder>Paul Allen</founder>			   
-				</founders>
 				<CEO sex="male">
 					<name>Satya Nadella</name>
 					<birthday format="Date">19/08/1967</birthday>
 					<birthplace>Hyderabad, Telangana, India</birthplace>
 				</CEO>
+				<founders>
+				    <founder>Bill Gates</founder>
+				    <founder>Paul Allen</founder>			   
+				</founders>
 				<person office="CMO">Chris Capossela</person>
 				<person office="CFO">Amy Hood</person>
 				<person office="CDO">Kurt DelBene</person>
@@ -86,14 +86,14 @@
 		<people>
 			<employees>647,500</employees>
 			<key_people>
-				<founders>
-				    <founder>Jeff Bezos</founder>			   
-				</founders>
 				<CEO sex="male">
 					<name>Jeff Bezos</name>
 					<birthday format="Date">12/01/1964</birthday>
 					<birthplace>Albuquerque, New Mexico, U.S.</birthplace>
 				</CEO>
+				<founders>
+				    <founder>Jeff Bezos</founder>			   
+				</founders>
 				<person office="CTO">Werner Vogels</person>
 			</key_people>
 		</people>
@@ -110,15 +110,15 @@
 		<people>
 			<employees>103,549</employees>
 			<key_people>
-				<founders>
-				    <founder>Larry Page</founder>
-				    <founder>Sergey Brin</founder>   
-				</founders>
 				<CEO sex="male">
 					<name>Larry Page </name>
 					<birthday format="Date">26/03/1973</birthday>
 					<birthplace>Lansing, Michigan, U.S.</birthplace>
 				</CEO>
+				<founders>
+				    <founder>Larry Page</founder>
+				    <founder>Sergey Brin</founder>   
+				</founders>
 				<person office="President">Sergey Brin</person>
 				<person office="Chairman">David Drummond</person>
 				<person office="CFO">Ruth Porat</person>
@@ -136,15 +136,15 @@
 		<people>
 			<employees>389,373</employees>
 			<key_people>
-				<founders>
-				    <founder>Oliver Chace</founder>
-				    <founder>Warren Buffett</founder>   
-				</founders>
 				<CEO sex="male">
 					<name>Larry Page</name>
 					<birthday format="Date">30/08/1930</birthday>
 					<birthplace>Omaha, Nebraska, U.S.</birthplace>
 				</CEO>
+				<founders>
+				    <founder>Oliver Chace</founder>
+				    <founder>Warren Buffett</founder>   
+				</founders>
 				<person office="Vice_chairman">Charles T. Munger</person>
 				<person office="Vice_chairman">Ajit Jain</person>
 			</key_people>
@@ -161,16 +161,16 @@
 		<people>
 			<employees>39,651</employees>
 			<key_people>
-				<founders>
-				    <founder>Mark Zuckerberg</founder>
-				    <founder>Eduardo Saverin</founder>   
-				    <founder>Andrew McCollum</founder>
-				</founders>
 				<CEO sex="male">
 					<name>Mark Zuckerberg</name>
 					<birthday format="Date">14/05/1984</birthday>
 					<birthplace>White Plains, New York, U.S.</birthplace>
 				</CEO>
+				<founders>
+				    <founder>Mark Zuckerberg</founder>
+				    <founder>Eduardo Saverin</founder>   
+				    <founder>Andrew McCollum</founder>
+				</founders>
 				<person office="COO">Sheryl Sandberg</person>
 				<person office="CFO">David Wehner</person>
 				<person office="CTO">Mike Schroepfer</person>
@@ -188,14 +188,14 @@
 		<people>
 			<employees>101,958</employees>
 			<key_people>
-				<founders>
-				    <founder>Jack Ma</founder>
-				</founders>
 				<CEO sex="male">
 					<name>Daniel Zhang</name>
 					<birthday format="Date">11/01/1972</birthday>
 					<birthplace>Shanghai, China</birthplace>
 				</CEO>
+				<founders>
+				    <founder>Jack Ma</founder>
+				</founders>
 				<person office="Vice_chairman">Joseph Tsai</person>
 				<person office="President">J. Michael Evans</person>
 			</key_people>
@@ -212,16 +212,16 @@
 		<people>
 			<employees>54,309</employees>
 			<key_people>
-				<founders>
-				    <founder>Ma Huateng</founder>
-				    <founder>Zhang Zhidong</founder>
-				    <founder>Xu Chenye</founder>
-				</founders>
 				<CEO sex="male">
 					<name>Ma Huateng</name>
 					<birthday format="Date">29/10/1971</birthday>
 					<birthplace>Chaoyang, Shantou, Guangdong</birthplace>
 				</CEO>
+				<founders>
+				    <founder>Ma Huateng</founder>
+				    <founder>Zhang Zhidong</founder>
+				    <founder>Xu Chenye</founder>
+				</founders>
 				<person office="President">Martin Lau</person>
 			</key_people>
 		</people>
@@ -237,14 +237,14 @@
 		<people>
 			<employees>254,983</employees>
 			<key_people>
-				<founders>
-				    <founder>John Pierpont Morgan</founder>
-				</founders>
 				<CEO sex="male">
 					<name>Jamie Dimon</name>
 					<birthday format="Date">13/03/1956</birthday>
 					<birthplace>New York City, New York, U.S.</birthplace>
 				</CEO>
+				<founders>
+				    <founder>John Pierpont Morgan</founder>
+				</founders>
 				<person office="CFO">Jennifer Piepszak</person>
 				<person office="COO">Daniel E. Pinto</person>
 			</key_people>
@@ -262,16 +262,16 @@
 		<people>
 			<employees>134,000</employees>
 			<key_people>
-				<founders>
-				    <founder>Robert Wood Johnson I</founder>
-				    <founder>James Wood Johnson</founder>
-				    <founder>Edward Mead Johnson</founder>
-				</founders>
 				<CEO sex="male">
 					<name>Alex Gorsky</name>
 					<birthday format="Date">24/05/1960</birthday>
 					<birthplace>New Brunswick, New Jersey, U.S.</birthplace>
 				</CEO>
+				<founders>
+				    <founder>Robert Wood Johnson I</founder>
+				    <founder>James Wood Johnson</founder>
+				    <founder>Edward Mead Johnson</founder>
+				</founders>
 				<person office="Chairman">William C. Weldon </person>
 			</key_people>
 		</people>
@@ -288,14 +288,14 @@
 		<people>
 			<employees>17,000</employees>
 			<key_people>
-				<founders>
-				    <founder>Dee Hock</founder>
-				</founders>
 				<CEO sex="male">
 					<name>Alfred F. Kelly </name>
 					<birthday format="Date">18/05/1959</birthday>
 					<birthplace>New York City, New York, U.S.</birthplace>
 				</CEO>
+				<founders>
+				    <founder>Dee Hock</founder>
+				</founders>
 				<person office="President">Chris Clark </person>
 			</key_people>
 		</people>
@@ -351,14 +351,14 @@
 		<people>
 			<employees>2,200,000</employees>
 			<key_people>
-				<founders>
-				    <founder>Sam Walton</founder>
-				</founders>
 				<CEO sex="male">
 					<name>Doug McMillon</name>
 					<birthday format="Date">17/10/1966</birthday>
 					<birthplace>Memphis, Tennessee, U.S.</birthplace>
 				</CEO>
+				<founders>
+				    <founder>Sam Walton</founder>
+				</founders>
 				<person office="Chairman">Greg Penner</person>
 			</key_people>
 		</people>
@@ -395,14 +395,14 @@
 		<people>
 			<employees>308,000</employees>
 			<key_people>
-				<founders>
-				    <founder>Henri Nestlé</founder>
-				</founders>
 				<CEO sex="male">
 					<name>Ulf Mark Schneider</name>
 					<birthday format="Date">09/09/1965</birthday>
 					<birthplace>Neuwied, Germany</birthplace>
 				</CEO>
+				<founders>
+				    <founder>Henri Nestlé</founder>
+				</founders>
 				<person office="Chairman">Paul Bulcke</person>
 			</key_people>
 		</people>
@@ -424,7 +424,6 @@
 					<birthplace>Seoul, South Korea</birthplace>
 				</CEO>
 				<person office="Chairman">Lee Kun-hee</person>
-				<person office="Vice_chairman">Lee Jae-yong</person>
 				<person office="President">Young Sohn</person>
 			</key_people>
 		</people>
@@ -440,15 +439,15 @@
 		<people>
 			<employees>97,000</employees>
 			<key_people>
-				<founders>
-				    <founder>William Procter</founder>
-				    <founder>James Gamble</founder>
-				</founders>
 				<CEO sex="male">
 					<name>David S. Taylor</name>
 					<birthday format="Date">20/04/1958</birthday>
 					<birthplace>Charlotte, North Carolina, United States</birthplace>
 				</CEO>
+				<founders>
+				    <founder>William Procter</founder>
+				    <founder>James Gamble</founder>
+				</founders>
 				<person office="CFO">Jon Moeller</person>
 			</key_people>
 		</people>
@@ -464,15 +463,15 @@
 		<people>
 			<employees>82,000</employees>
 			<key_people>
-				<founders>
-				    <founder>Samuel Samuel</founder>
-				    <founder>Marcus Samuel</founder>
-				</founders>
 				<CEO sex="male">
 					<name>Ben van Beurden</name>
 					<birthday format="Date">23/04/1958</birthday>
 					<birthplace>Roosendaal, Netherlands</birthplace>
 				</CEO>
+				<founders>
+				    <founder>Samuel Samuel</founder>
+				    <founder>Marcus Samuel</founder>
+				</founders>
 				<person office="Chairman">Charles O. Holliday</person>
 			</key_people>
 		</people>
@@ -488,15 +487,15 @@
 		<people>
 			<employees>110,200</employees>
 			<key_people>
-				<founders>
-				    <founder>Gordon Moore</founder>
-				    <founder>Robert Noyce</founder>
-				</founders>
 				<CEO sex="male">
 					<name>Bob Swan</name>
 					<birthday format="Date">21/11/1959</birthday>
 					<birthplace>Syracuse, New York, U.S.</birthplace>
 				</CEO>
+				<founders>
+				    <founder>Gordon Moore</founder>
+				    <founder>Robert Noyce</founder>
+				</founders>
 				<person office="Chairman">Gordon Moore</person>
 				<person office="Chairman">Andy Bryant</person>
 			</key_people>
@@ -513,15 +512,15 @@
 		<people>
 			<employees>74,200</employees>
 			<key_people>
-				<founders>
-				    <founder>Leonard Bosack</founder>
-				    <founder>Sandy Lerner</founder>
-				</founders>
 				<CEO sex="male">
 					<name>Charles H. Robbins</name>
 					<birthday format="Date">28/10/1965</birthday>
 					<birthplace>Los Gatos, California, U.S.</birthplace>
 				</CEO>
+				<founders>
+				    <founder>Leonard Bosack</founder>
+				    <founder>Sandy Lerner</founder>
+				</founders>
 				<person office="CLO">Mark Chandler</person>
 				<person office="CMO">Gerri Elliott</person>
 			</key_people>
@@ -557,6 +556,7 @@
 		<founded format="Date">07/10/1983</founded>
 		<value format="Money">$239.7 billion </value>
 		<people>
+			<employees>139,400</employees>
 			<key_people>
 				<CEO sex="male">
 					<name>Lowell McAdam</name>
@@ -565,7 +565,6 @@
 				</CEO>
 				<person office="CFO">Matthew D. Ellis</person>
 			</key_people>
-			<employees>139,400</employees>
 		</people>
 		<description>Verizon Communications Inc. is an American multinational telecommunications conglomerate and a corporate component of the Dow Jones Industrial Average. The company is based at 1095 Avenue of the Americas in Midtown Manhattan, New York City, but is incorporated in Delaware.</description>
 		
@@ -579,15 +578,15 @@
 		<people>
 			<employees>201,000</employees>
 			<key_people>
-				<founders>
-				    <founder>Walt Disney</founder>
-				    <founder>Roy O. Disney</founder>
-				</founders>
 				<CEO sex="male">
 					<name>Robert Iger</name>
 					<birthday format="Date">10/02/1951</birthday>
 					<birthplace>New York City, New York, U.S.</birthplace>
 				</CEO>
+				<founders>
+				    <founder>Walt Disney</founder>
+				    <founder>Roy O. Disney</founder>
+				</founders>
 				<person office="CFO">Christine McCarthy</person>
 			</key_people>
 		</people>
@@ -644,16 +643,16 @@
 		<people>
 			<employees>400,000</employees>
 			<key_people>
-				<founders>
-				    <founder>Bernard Marcus</founder>
-				    <founder>Arthur Blank</founder>
-				    <founder>Ron Brill</founder>
-				</founders>
 				<CEO sex="male">
 					<name>Craig Menear</name>
 					<birthday format="Date">18/11/1958</birthday>
 					<birthplace>Flint, Michigan, U.S.</birthplace>
 				</CEO>
+				<founders>
+				    <founder>Bernard Marcus</founder>
+				    <founder>Arthur Blank</founder>
+				    <founder>Ron Brill</founder>
+				</founders>
 				<person office="CFO">Richard McPhail</person>
 			</key_people>
 		</people>
@@ -692,15 +691,15 @@
 		<people>
 			<employees>73,100</employees>
 			<key_people>
-				<founders>
-				    <founder>Bill Bowerman</founder>
-				    <founder>Phil Knight</founder>
-				</founders>
 				<CEO sex="male">
 					<name>Mark Parker</name>
 					<birthday format="Date">21/10/1955</birthday>
 					<birthplace>Poughkeepsie, New York, U.S.</birthplace>
 				</CEO>
+				<founders>
+				    <founder>Bill Bowerman</founder>
+				    <founder>Phil Knight</founder>
+				</founders>
 				<person office="Chairman">Phil Knight</person>
 			</key_people>
 		</people>
@@ -717,14 +716,14 @@
 		<people>
 			<employees>48,000</employees>
 			<key_people>
-				<founders>
-				    <founder>Morris Chang</founder>
-				</founders>
 				<CEO sex="male">
 					<name>Morris Chang</name>
 					<birthday format="Date">10/07/1931</birthday>
 					<birthplace>Ningbo, Chekiang, China</birthplace>
 				</CEO>
+				<founders>
+				    <founder>Morris Chang</founder>
+				</founders>
 				<person office="Chairman">Mark Liu</person>
 			</key_people>
 		</people>
