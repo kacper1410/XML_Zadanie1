@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<!DOCTYPE companies SYSTEM "main.dtd">
 <?xml-stylesheet type="text/css" href="style.css"?>
+<!DOCTYPE companies SYSTEM "main.dtd">
+
 
 <companies>
 
@@ -10,175 +11,22 @@
         <author>Patryk Kolanek 224333</author>
     </header>
 
-    <CEOs>
-    	<CEO sex="male" CEO_ID="C1">
-			<name>Tim Cook</name>
-			<birthday format="Date">01/11/1960</birthday>
-			<birthplace>Hyderabad, Telangana, India</birthplace>
-		</CEO>
-		<CEO sex="male" CEO_ID="C2">
-			<name>Satya Nadella</name>
-			<birthday format="Date">19/08/1967</birthday>
-			<birthplace>Hyderabad, Telangana, India</birthplace>
-		</CEO>
-		<CEO sex="male" CEO_ID="C3">
-			<name>Jeff Bezos</name>
-			<birthday format="Date">12/01/1964</birthday>
-			<birthplace>Albuquerque, New Mexico, U.S.</birthplace>
-		</CEO>
-		<CEO sex="male" CEO_ID="C4">
-			<name>Larry Page </name>
-			<birthday format="Date">26/03/1973</birthday>
-			<birthplace>Lansing, Michigan, U.S.</birthplace>
-		</CEO>
-		<CEO sex="male" CEO_ID="C5">
-			<name>Larry Page</name>
-			<birthday format="Date">30/08/1930</birthday>
-			<birthplace>Omaha, Nebraska, U.S.</birthplace>
-		</CEO>
-		<CEO sex="male" CEO_ID="C6">
-			<name>Mark Zuckerberg</name>
-			<birthday format="Date">14/05/1984</birthday>
-			<birthplace>White Plains, New York, U.S.</birthplace>
-		</CEO>
-		<CEO sex="male" CEO_ID="C7">
-			<name>Daniel Zhang</name>
-			<birthday format="Date">11/01/1972</birthday>
-			<birthplace>Shanghai, China</birthplace>
-		</CEO>
-		<CEO sex="male" CEO_ID="C8">
-			<name>Ma Huateng</name>
-			<birthday format="Date">29/10/1971</birthday>
-			<birthplace>Chaoyang, Shantou, Guangdong</birthplace>
-		</CEO>
-		<CEO sex="male" CEO_ID="C9">
-			<name>Jamie Dimon</name>
-			<birthday format="Date">13/03/1956</birthday>
-			<birthplace>New York City, New York, U.S.</birthplace>
-		</CEO>
-		<CEO sex="male" CEO_ID="C10">
-			<name>Alex Gorsky</name>
-			<birthday format="Date">24/05/1960</birthday>
-			<birthplace>New Brunswick, New Jersey, U.S.</birthplace>
-		</CEO>
-		<CEO sex="male" CEO_ID="C11">
-			<name>Alfred F. Kelly </name>
-			<birthday format="Date">18/05/1959</birthday>
-			<birthplace>New York City, New York, U.S.</birthplace>
-		</CEO>
-		<CEO sex="male" CEO_ID="C12">
-			<name>Darren Woods</name>
-			<birthday format="Date">28/12/1964</birthday>
-			<birthplace>Wichita, Kansas, U.S.</birthplace>
-		</CEO>
-		<CEO sex="male" CEO_ID="C13">
-			<name>Yi Huiman</name>
-			<birthday format="Date">15/12/1964</birthday>
-			<birthplace>Cangnan County,Zhejiang, China</birthplace>
-		</CEO>
-		<CEO sex="male" CEO_ID="C14">
-			<name>Doug McMillon</name>
-			<birthday format="Date">17/10/1966</birthday>
-			<birthplace>Memphis, Tennessee, U.S.</birthplace>
-		</CEO>
-		<CEO sex="male" CEO_ID="C15">
-			<name>Brian Moynihan</name>
-			<birthday format="Date">19/10/1959</birthday>
-			<birthplace>Marietta, Ohio, U.S.</birthplace>
-		</CEO>
-		<CEO sex="male" CEO_ID="C16">
-			<name>Ulf Mark Schneider</name>
-			<birthday format="Date">09/09/1965</birthday>
-			<birthplace>Neuwied, Germany</birthplace>
-		</CEO>
-		<CEO sex="male" CEO_ID="C17">
-			<name>Kwon Oh-hyun</name>
-			<birthday format="Date">15/10/1952</birthday>
-			<birthplace>Seoul, South Korea</birthplace>
-		</CEO>
-		<CEO sex="male" CEO_ID="C18">
-			<name>David S. Taylor</name>
-			<birthday format="Date">20/04/1958</birthday>
-			<birthplace>Charlotte, North Carolina, United States</birthplace>
-		</CEO>
-		<CEO sex="male" CEO_ID="C19">
-			<name>Ben van Beurden</name>
-			<birthday format="Date">23/04/1958</birthday>
-			<birthplace>Roosendaal, Netherlands</birthplace>
-		</CEO>
-		<CEO sex="male" CEO_ID="C20">
-			<name>Bob Swan</name>
-			<birthday format="Date">21/11/1959</birthday>
-			<birthplace>Syracuse, New York, U.S.</birthplace>
-		</CEO>
-		<CEO sex="male" CEO_ID="C21">
-			<name>Charles H. Robbins</name>
-			<birthday format="Date">28/10/1965</birthday>
-			<birthplace>Los Gatos, California, U.S.</birthplace>
-		</CEO>
-		<CEO sex="male" CEO_ID="C22">
-			<name>Ajaypal Singh Banga</name>
-			<birthday format="Date">08/08/1960</birthday>
-			<birthplace>Pune, India</birthplace>
-		</CEO>
-		<CEO sex="male" CEO_ID="C23">
-			<name>Lowell McAdam</name>
-			<birthday format="Date">03/09/1960</birthday>
-			<birthplace>Buffalo, New York, U.S.</birthplace>
-		</CEO>
-		<CEO sex="male" CEO_ID="C24">
-			<name>Robert Iger</name>
-			<birthday format="Date">10/02/1951</birthday>
-			<birthplace>New York City, New York, U.S.</birthplace>
-		</CEO>
-		<CEO sex="male" CEO_ID="C25">
-			<name>Randall Stephenson</name>
-			<birthday format="Date">22/09/1960</birthday>
-			<birthplace>Oklahoma City, Oklahoma, U.S.</birthplace>
-		</CEO>
-		<CEO sex="male" CEO_ID="C26">
-			<name>John Watson</name>
-			<birthday format="Date">28/05/1956</birthday>
-			<birthplace>San Ramon, California, U.S.</birthplace>
-		</CEO>
-		<CEO sex="male" CEO_ID="C27">
-			<name>Craig Menear</name>
-			<birthday format="Date">18/11/1958</birthday>
-			<birthplace>Flint, Michigan, U.S.</birthplace>
-		</CEO>
-		<CEO sex="male" CEO_ID="C28">
-			<name>Wang Hongzhang</name>
-			<birthday format="Date">15/07/1954</birthday>
-			<birthplace>Changtu County, Liaoning, China</birthplace>
-		</CEO>
-		<CEO sex="male" CEO_ID="C29">
-			<name>Mark Parker</name>
-			<birthday format="Date">21/10/1955</birthday>
-			<birthplace>Poughkeepsie, New York, U.S.</birthplace>
-		</CEO>
-		<CEO sex="male" CEO_ID="C30">
-			<name>Morris Chang</name>
-			<birthday format="Date">10/07/1931</birthday>
-			<birthplace>Ningbo, Chekiang, China</birthplace>
-		</CEO>
-	</CEOs>
-
 	<industries>
 		<industry industry="IT">IT</industry>
 		<industry industry="Conglomerate">Conglomerate</industry>
-		<industry industry="Social media">Social media</industry>
+		<industry industry="Social_media">Social media</industry>
 		<industry industry="Financial">Financial</industry>
 		<industry industry="Medical">Medical</industry>
-		<industry industry="Oil and gas">Oil and gas</industry>
+		<industry industry="Oil_and_gas">Oil and gas</industry>
 		<industry industry="Retail">Retail</industry>
 		<industry industry="Food">Food</industry>
-		<industry industry="Consumer goods">Consumer goods</industry>
+		<industry industry="Consumer_goods">Consumer goods</industry>
 		<industry industry="Telecommunications">Telecommunications</industry>
 		<industry industry="Entertainment">Entertainment</industry>
 		<industry industry="Semiconductors">Semiconductors</industry>
 	</industries>
 
-	<company industry="IT" country="US" name="Apple" CEO_ID="C1" company_ID="Co1">
+	<company industry="IT" country="US" name="Apple" company_ID="Co1">
 		
 		<name>Apple</name>
 		<founded format="Date">01/04/1976</founded>
@@ -191,6 +39,11 @@
 				    <founder>Steve Wozniak</founder>
 				    <founder>Ronald Wayne</founder>				   
 				</founders>
+				<CEO sex="male">
+					<name>Tim Cook</name>
+					<birthday format="Date">01/11/1960</birthday>
+					<birthplace>Hyderabad, Telangana, India</birthplace>
+				</CEO>
 				<person office="Chairman">Arthur D. Levinson</person>
 				<person office="COO">Jeff Williams</person>
 			</key_people>
@@ -199,7 +52,7 @@
 
 	</company>
 
-	<company industry="IT" country="US" name="Microsoft" CEO_ID="C2" company_ID="Co2">
+	<company industry="IT" country="US" name="Microsoft" company_ID="Co2">
 		
 		<name>Microsoft</name>
 		<founded format="Date">04/04/1975</founded>
@@ -211,6 +64,11 @@
 				    <founder>Bill Gates</founder>
 				    <founder>Paul Allen</founder>			   
 				</founders>
+				<CEO sex="male">
+					<name>Satya Nadella</name>
+					<birthday format="Date">19/08/1967</birthday>
+					<birthplace>Hyderabad, Telangana, India</birthplace>
+				</CEO>
 				<person office="CMO">Chris Capossela</person>
 				<person office="CFO">Amy Hood</person>
 				<person office="CDO">Kurt DelBene</person>
@@ -220,7 +78,7 @@
 		
 	</company>
 
-	<company industry="IT" country="US" name="Amazon" CEO_ID="C3" company_ID="Co3">
+	<company industry="IT" country="US" name="Amazon" company_ID="Co3">
 		
 		<name>Amazon</name>
 		<founded format="Date">05/07/1994</founded>
@@ -231,6 +89,11 @@
 				<founders>
 				    <founder>Jeff Bezos</founder>			   
 				</founders>
+				<CEO sex="male">
+					<name>Jeff Bezos</name>
+					<birthday format="Date">12/01/1964</birthday>
+					<birthplace>Albuquerque, New Mexico, U.S.</birthplace>
+				</CEO>
 				<person office="CTO">Werner Vogels</person>
 			</key_people>
 		</people>
@@ -239,7 +102,7 @@
 		
 	</company>
 
-	<company industry="Conglomerate" country="US" name="Alphabet" CEO_ID="C4" company_ID="Co4">
+	<company industry="Conglomerate" country="US" name="Alphabet" company_ID="Co4">
 		
 		<name>Alphabet</name>
 		<founded format="Date">02/10/2015</founded>
@@ -251,6 +114,11 @@
 				    <founder>Larry Page</founder>
 				    <founder>Sergey Brin</founder>   
 				</founders>
+				<CEO sex="male">
+					<name>Larry Page </name>
+					<birthday format="Date">26/03/1973</birthday>
+					<birthplace>Lansing, Michigan, U.S.</birthplace>
+				</CEO>
 				<person office="President">Sergey Brin</person>
 				<person office="Chairman">David Drummond</person>
 				<person office="CFO">Ruth Porat</person>
@@ -260,7 +128,7 @@
 		
 	</company>
 
-	<company industry="Conglomerate" country="US" name="Berkshire Hathaway" CEO_ID="C5" company_ID="Co5">
+	<company industry="Conglomerate" country="US" name="Berkshire Hathaway" company_ID="Co5">
 		
 		<name>Berkshire Hathaway</name>
 		<founded format="Date">1839</founded>
@@ -272,6 +140,11 @@
 				    <founder>Oliver Chace</founder>
 				    <founder>Warren Buffett</founder>   
 				</founders>
+				<CEO sex="male">
+					<name>Larry Page</name>
+					<birthday format="Date">30/08/1930</birthday>
+					<birthplace>Omaha, Nebraska, U.S.</birthplace>
+				</CEO>
 				<person office="Vice_chairman">Charles T. Munger</person>
 				<person office="Vice_chairman">Ajit Jain</person>
 			</key_people>
@@ -280,7 +153,7 @@
 		
 	</company>
 
-	<company industry="Social media" country="US" name="Facebook" CEO_ID="C6" company_ID="Co6">
+	<company industry="Social_media" country="US" name="Facebook" company_ID="Co6">
 		
 		<name>Facebook</name>
 		<founded format="Date">04/02/2004</founded>
@@ -293,6 +166,11 @@
 				    <founder>Eduardo Saverin</founder>   
 				    <founder>Andrew McCollum</founder>
 				</founders>
+				<CEO sex="male">
+					<name>Mark Zuckerberg</name>
+					<birthday format="Date">14/05/1984</birthday>
+					<birthplace>White Plains, New York, U.S.</birthplace>
+				</CEO>
 				<person office="COO">Sheryl Sandberg</person>
 				<person office="CFO">David Wehner</person>
 				<person office="CTO">Mike Schroepfer</person>
@@ -302,7 +180,7 @@
 		
 	</company>
 
-	<company industry="Conglomerate" country="China" name="Alibaba" CEO_ID="C7" company_ID="Co7">
+	<company industry="Conglomerate" country="China" name="Alibaba" company_ID="Co7">
 		
 		<name>Alibaba</name>
 		<founded format="Date">04/04/1999</founded>
@@ -312,7 +190,12 @@
 			<key_people>
 				<founders>
 				    <founder>Jack Ma</founder>
-				</founders>				
+				</founders>
+				<CEO sex="male">
+					<name>Daniel Zhang</name>
+					<birthday format="Date">11/01/1972</birthday>
+					<birthplace>Shanghai, China</birthplace>
+				</CEO>
 				<person office="Vice_chairman">Joseph Tsai</person>
 				<person office="President">J. Michael Evans</person>
 			</key_people>
@@ -321,7 +204,7 @@
 		
 	</company>
 
-	<company industry="Conglomerate" country="China" name="Tencent Holdings" CEO_ID="C8" company_ID="Co8">
+	<company industry="Conglomerate" country="China" name="Tencent Holdings" company_ID="Co8">
 		
 		<name>Tencent Holdings</name>
 		<founded format="Date">11/11/1998</founded>
@@ -333,7 +216,12 @@
 				    <founder>Ma Huateng</founder>
 				    <founder>Zhang Zhidong</founder>
 				    <founder>Xu Chenye</founder>
-				</founders>	
+				</founders>
+				<CEO sex="male">
+					<name>Ma Huateng</name>
+					<birthday format="Date">29/10/1971</birthday>
+					<birthplace>Chaoyang, Shantou, Guangdong</birthplace>
+				</CEO>
 				<person office="President">Martin Lau</person>
 			</key_people>
 		</people>
@@ -341,7 +229,7 @@
 		
 	</company>
 
-	<company industry="Financial" country="US" name="JPMorgan Chase" CEO_ID="C9" company_ID="Co9">
+	<company industry="Financial" country="US" name="JPMorgan Chase" company_ID="Co9">
 		
 		<name>JPMorgan Chase</name>
 		<founded format="Date">01/12/2000</founded>
@@ -351,7 +239,12 @@
 			<key_people>
 				<founders>
 				    <founder>John Pierpont Morgan</founder>
-				</founders>	
+				</founders>
+				<CEO sex="male">
+					<name>Jamie Dimon</name>
+					<birthday format="Date">13/03/1956</birthday>
+					<birthplace>New York City, New York, U.S.</birthplace>
+				</CEO>
 				<person office="CFO">Jennifer Piepszak</person>
 				<person office="COO">Daniel E. Pinto</person>
 			</key_people>
@@ -361,7 +254,7 @@
 		
 	</company>
 
-	<company industry="Medical" country="US" name="Johnson &amp; Johnson" CEO_ID="C10" company_ID="Co10">
+	<company industry="Medical" country="US" name="Johnson &amp; Johnson" company_ID="Co10">
 		
 		<name>Johnson &amp; Johnson</name>
 		<founded format="Date">1886</founded>
@@ -373,7 +266,12 @@
 				    <founder>Robert Wood Johnson I</founder>
 				    <founder>James Wood Johnson</founder>
 				    <founder>Edward Mead Johnson</founder>
-				</founders>					
+				</founders>
+				<CEO sex="male">
+					<name>Alex Gorsky</name>
+					<birthday format="Date">24/05/1960</birthday>
+					<birthplace>New Brunswick, New Jersey, U.S.</birthplace>
+				</CEO>
 				<person office="Chairman">William C. Weldon </person>
 			</key_people>
 		</people>
@@ -382,7 +280,7 @@
 		
 	</company>
 
-	<company industry="Financial" country="US" name="Visa" CEO_ID="C11" company_ID="Co11">
+	<company industry="Financial" country="US" name="Visa" company_ID="Co11">
 		
 		<name>Visa</name>
 		<founded format="Date">15/09/1958</founded>
@@ -392,7 +290,12 @@
 			<key_people>
 				<founders>
 				    <founder>Dee Hock</founder>
-				</founders>		
+				</founders>
+				<CEO sex="male">
+					<name>Alfred F. Kelly </name>
+					<birthday format="Date">18/05/1959</birthday>
+					<birthplace>New York City, New York, U.S.</birthplace>
+				</CEO>
 				<person office="President">Chris Clark </person>
 			</key_people>
 		</people>
@@ -400,7 +303,7 @@
 		
 	</company>
 
-	<company industry="Oil and gas" country="US" name="ExxonMobil" CEO_ID="C12" company_ID="Co12">
+	<company industry="Oil_and_gas" country="US" name="ExxonMobil" company_ID="Co12">
 		
 		<name>ExxonMobil</name>
 		<founded format="Date">30/11/1999</founded>
@@ -408,6 +311,11 @@
 		<people>
 			<employees>71,000</employees>
 			<key_people>
+				<CEO sex="male">
+					<name>Darren Woods</name>
+					<birthday format="Date">28/12/1964</birthday>
+					<birthplace>Wichita, Kansas, U.S.</birthplace>
+				</CEO>
 				<person office="CFO">Andrew P. Swiger</person>
 			</key_people>
 		</people>
@@ -415,7 +323,7 @@
 		
 	</company>
 		
-	<company industry="Financial" country="China" name="ICBC" CEO_ID="C13" company_ID="Co13">
+	<company industry="Financial" country="China" name="ICBC" company_ID="Co13">
 		
 		<name>ICBC</name>
 		<founded format="Date">01/01/1984</founded>
@@ -423,6 +331,11 @@
 		<people>
 			<employees>453,048</employees>
 			<key_people>
+				<CEO sex="male">
+					<name>Yi Huiman</name>
+					<birthday format="Date">15/12/1964</birthday>
+					<birthplace>Cangnan County,Zhejiang, China</birthplace>
+				</CEO>
 				<person office="President">Luo Xi</person>
 			</key_people>
 		</people>
@@ -430,7 +343,7 @@
 		
 	</company>
 
-	<company industry="Retail" country="US" name="Walmart" CEO_ID="C14" company_ID="Co14">
+	<company industry="Retail" country="US" name="Walmart" company_ID="Co14">
 		
 		<name>Walmart</name>
 		<founded format="Date">13/06/1945</founded>
@@ -440,7 +353,12 @@
 			<key_people>
 				<founders>
 				    <founder>Sam Walton</founder>
-				</founders>	
+				</founders>
+				<CEO sex="male">
+					<name>Doug McMillon</name>
+					<birthday format="Date">17/10/1966</birthday>
+					<birthplace>Memphis, Tennessee, U.S.</birthplace>
+				</CEO>
 				<person office="Chairman">Greg Penner</person>
 			</key_people>
 		</people>
@@ -448,7 +366,7 @@
 		
 	</company>
 
-	<company industry="Financial" country="US" name="Bank of America" CEO_ID="C15" company_ID="Co15">
+	<company industry="Financial" country="US" name="Bank of America" company_ID="Co15">
 		
 		<name>Bank of America</name>
 		<founded format="Date">18/09/1998</founded>
@@ -456,6 +374,11 @@
 		<people>
 			<employees>205,000</employees>
 			<key_people>
+				<CEO sex="male">
+					<name>Brian Moynihan</name>
+					<birthday format="Date">19/10/1959</birthday>
+					<birthplace>Marietta, Ohio, U.S.</birthplace>
+				</CEO>
 				<person office="Vice_chairman">Anne Finucane</person>
 				<person office="Vice_chairman">Bruce Thompson</person>
 			</key_people>
@@ -464,7 +387,7 @@
 		
 	</company>
 
-	<company industry="Food" country="Switzerland" name="Nestle" CEO_ID="C16" company_ID="Co16">
+	<company industry="Food" country="Switzerland" name="Nestle" company_ID="Co16">
 		
 		<name>Nestle</name>
 		<founded format="Date">1886</founded>
@@ -474,7 +397,12 @@
 			<key_people>
 				<founders>
 				    <founder>Henri Nestlé</founder>
-				</founders>	
+				</founders>
+				<CEO sex="male">
+					<name>Ulf Mark Schneider</name>
+					<birthday format="Date">09/09/1965</birthday>
+					<birthplace>Neuwied, Germany</birthplace>
+				</CEO>
 				<person office="Chairman">Paul Bulcke</person>
 			</key_people>
 		</people>
@@ -482,7 +410,7 @@
 		
 	</company>
 
-	<company industry="IT" country="South Korea" name="Samsung Electronics" CEO_ID="C17" company_ID="Co17">
+	<company industry="IT" country="South_Korea" name="Samsung Electronics" company_ID="Co17">
 		
 		<name>Samsung Electronics</name>
 		<founded format="Date">13/01/1969</founded>
@@ -490,6 +418,11 @@
 		<people>
 			<employees>320,671</employees>
 			<key_people>
+				<CEO sex="male">
+					<name>Kwon Oh-hyun</name>
+					<birthday format="Date">15/10/1952</birthday>
+					<birthplace>Seoul, South Korea</birthplace>
+				</CEO>
 				<person office="Chairman">Lee Kun-hee</person>
 				<person office="Vice_chairman">Lee Jae-yong</person>
 				<person office="President">Young Sohn</person>
@@ -499,7 +432,7 @@
 		
 	</company>
 
-	<company industry="Consumer goods" country="South Korea" name="Procter &amp; Gamble" CEO_ID="C18" company_ID="Co18">
+	<company industry="Consumer_goods" country="South_Korea" name="Procter &amp; Gamble" company_ID="Co18">
 		
 		<name>Procter &amp; Gamble</name>
 		<founded format="Date">31/10/1837</founded>
@@ -511,6 +444,11 @@
 				    <founder>William Procter</founder>
 				    <founder>James Gamble</founder>
 				</founders>
+				<CEO sex="male">
+					<name>David S. Taylor</name>
+					<birthday format="Date">20/04/1958</birthday>
+					<birthplace>Charlotte, North Carolina, United States</birthplace>
+				</CEO>
 				<person office="CFO">Jon Moeller</person>
 			</key_people>
 		</people>
@@ -518,7 +456,7 @@
 		
 	</company>
 
-	<company industry="Oil and gas" country="Netherlands" name="Royal Dutch Shell" CEO_ID="C19" company_ID="Co19">
+	<company industry="Oil_and_gas" country="Netherlands" name="Royal Dutch Shell" company_ID="Co19">
 		
 		<name>Royal Dutch Shell</name>
 		<founded format="Date">02/04/1907</founded>
@@ -530,6 +468,11 @@
 				    <founder>Samuel Samuel</founder>
 				    <founder>Marcus Samuel</founder>
 				</founders>
+				<CEO sex="male">
+					<name>Ben van Beurden</name>
+					<birthday format="Date">23/04/1958</birthday>
+					<birthplace>Roosendaal, Netherlands</birthplace>
+				</CEO>
 				<person office="Chairman">Charles O. Holliday</person>
 			</key_people>
 		</people>
@@ -537,7 +480,7 @@
 		
 	</company>
 
-	<company industry="IT" country="US" name="Intel" CEO_ID="C20" company_ID="Co20">
+	<company industry="IT" country="US" name="Intel" company_ID="Co20">
 		
 		<name>Intel</name>
 		<founded format="Date">18/07/1968</founded>
@@ -549,6 +492,11 @@
 				    <founder>Gordon Moore</founder>
 				    <founder>Robert Noyce</founder>
 				</founders>
+				<CEO sex="male">
+					<name>Bob Swan</name>
+					<birthday format="Date">21/11/1959</birthday>
+					<birthplace>Syracuse, New York, U.S.</birthplace>
+				</CEO>
 				<person office="Chairman">Gordon Moore</person>
 				<person office="Chairman">Andy Bryant</person>
 			</key_people>
@@ -557,7 +505,7 @@
 		
 	</company>
 
-	<company industry="IT" country="US" name="Cisco" CEO_ID="C21" company_ID="Co21">
+	<company industry="IT" country="US" name="Cisco" company_ID="Co21">
 
 		<name>Cisco</name>
 		<founded format="Date">10/12/1984</founded>
@@ -569,6 +517,11 @@
 				    <founder>Leonard Bosack</founder>
 				    <founder>Sandy Lerner</founder>
 				</founders>
+				<CEO sex="male">
+					<name>Charles H. Robbins</name>
+					<birthday format="Date">28/10/1965</birthday>
+					<birthplace>Los Gatos, California, U.S.</birthplace>
+				</CEO>
 				<person office="CLO">Mark Chandler</person>
 				<person office="CMO">Gerri Elliott</person>
 			</key_people>
@@ -578,7 +531,7 @@
 		
 	</company>
 
-	<company industry="Financial" country="US" name="Mastercard" CEO_ID="C22" company_ID="Co22">
+	<company industry="Financial" country="US" name="Mastercard" company_ID="Co22">
 
 		<name>Mastercard</name>
 		<founded format="Date">1966</founded>
@@ -586,6 +539,11 @@
 		<people>
 			<employees>13,400</employees>
 			<key_people>
+				<CEO sex="male">
+					<name>Ajaypal Singh Banga</name>
+					<birthday format="Date">08/08/1960</birthday>
+					<birthplace>Pune, India</birthplace>
+				</CEO>
 				<person office="Chairman">Richard Haythornthwaite</person>
 			</key_people>
 		</people>
@@ -593,13 +551,18 @@
 		
 	</company>
 
-	<company industry="Telecommunications" country="US" name="Verizon Communications" CEO_ID="C23" company_ID="Co23">
+	<company industry="Telecommunications" country="US" name="Verizon Communications" company_ID="Co23">
 
 		<name>Verizon Communications</name>
 		<founded format="Date">07/10/1983</founded>
 		<value format="Money">$239.7 billion </value>
 		<people>
 			<key_people>
+				<CEO sex="male">
+					<name>Lowell McAdam</name>
+					<birthday format="Date">03/09/1960</birthday>
+					<birthplace>Buffalo, New York, U.S.</birthplace>
+				</CEO>
 				<person office="CFO">Matthew D. Ellis</person>
 			</key_people>
 			<employees>139,400</employees>
@@ -608,7 +571,7 @@
 		
 	</company>
 
-	<company industry="Entertainment" country="US" name="Disney" CEO_ID="C24" company_ID="Co24">
+	<company industry="Entertainment" country="US" name="Disney" company_ID="Co24">
 
 		<name>Disney</name>
 		<founded format="Date">16/10/1923</founded>
@@ -620,6 +583,11 @@
 				    <founder>Walt Disney</founder>
 				    <founder>Roy O. Disney</founder>
 				</founders>
+				<CEO sex="male">
+					<name>Robert Iger</name>
+					<birthday format="Date">10/02/1951</birthday>
+					<birthplace>New York City, New York, U.S.</birthplace>
+				</CEO>
 				<person office="CFO">Christine McCarthy</person>
 			</key_people>
 		</people>
@@ -627,7 +595,7 @@
 		
 	</company>
 
-	<company industry="Telecommunications" country="US" name="AT&amp;T" CEO_ID="C25" company_ID="Co25">
+	<company industry="Telecommunications" country="US" name="AT&amp;T" company_ID="Co25">
 
 		<name>AT&amp;T</name>
 		<founded format="Date">05/10/1983</founded>
@@ -635,6 +603,11 @@
 		<people>
 			<employees>273,210</employees>
 			<key_people>
+				<CEO sex="male">
+					<name>Randall Stephenson</name>
+					<birthday format="Date">22/09/1960</birthday>
+					<birthplace>Oklahoma City, Oklahoma, U.S.</birthplace>
+				</CEO>
 				<person office="President">John Stankey</person>
 				<person office="CFO">John J. Stephens</person>
 			</key_people>
@@ -643,7 +616,7 @@
 		
 	</company>
 
-	<company industry="Oil and gas" country="US" name="Chevron" CEO_ID="C26" company_ID="Co26">
+	<company industry="Oil_and_gas" country="US" name="Chevron" company_ID="Co26">
 
 		<name>Chevron</name>
 		<founded format="Date">05/10/1983</founded>
@@ -651,6 +624,11 @@
 		<people>
 			<employees>51,900</employees>
 			<key_people>
+				<CEO sex="male">
+					<name>John Watson</name>
+					<birthday format="Date">28/05/1956</birthday>
+					<birthplace>San Ramon, California, U.S.</birthplace>
+				</CEO>
 				<person office="Chairman">Michael Wirth</person>
 			</key_people>
 		</people>
@@ -658,7 +636,7 @@
 		
 	</company>
 
-	<company industry="Retail" country="US" name="Home Depot" CEO_ID="C27" company_ID="Co27">
+	<company industry="Retail" country="US" name="Home Depot" company_ID="Co27">
 
 		<name>Home Depot</name>
 		<founded format="Date">1978</founded>
@@ -671,6 +649,11 @@
 				    <founder>Arthur Blank</founder>
 				    <founder>Ron Brill</founder>
 				</founders>
+				<CEO sex="male">
+					<name>Craig Menear</name>
+					<birthday format="Date">18/11/1958</birthday>
+					<birthplace>Flint, Michigan, U.S.</birthplace>
+				</CEO>
 				<person office="CFO">Richard McPhail</person>
 			</key_people>
 		</people>
@@ -679,7 +662,7 @@
 		
 	</company>
 
-	<company industry="Financial" country="China" name="China Construction Bank" CEO_ID="C28" company_ID="Co28">
+	<company industry="Financial" country="China" name="China Construction Bank" company_ID="Co28">
 
 		<name>China Construction Bank</name>
 		<founded format="Date">1954</founded>
@@ -687,6 +670,11 @@
 		<people>
 			<employees>345,971</employees>
 			<key_people>
+				<CEO sex="male">
+					<name>Wang Hongzhang</name>
+					<birthday format="Date">15/07/1954</birthday>
+					<birthplace>Changtu County, Liaoning, China</birthplace>
+				</CEO>
 				<person office="President">Zhang Jianguo </person>
 				<person office="Vice_chairman">Xin Shusen </person>
 			</key_people>
@@ -696,7 +684,7 @@
 		
 	</company>
 
-	<company industry="Consumer goods" country="US" name="Nike" CEO_ID="C29" company_ID="Co29">
+	<company industry="Consumer_goods" country="US" name="Nike" company_ID="Co29">
 
 		<name>Nike</name>
 		<founded format="Date">25/01/1964</founded>
@@ -708,6 +696,11 @@
 				    <founder>Bill Bowerman</founder>
 				    <founder>Phil Knight</founder>
 				</founders>
+				<CEO sex="male">
+					<name>Mark Parker</name>
+					<birthday format="Date">21/10/1955</birthday>
+					<birthplace>Poughkeepsie, New York, U.S.</birthplace>
+				</CEO>
 				<person office="Chairman">Phil Knight</person>
 			</key_people>
 		</people>
@@ -716,7 +709,7 @@
 		
 	</company>
 
-	<company industry="Semiconductors" country="Taiwan" name="Taiwan Semiconductor" CEO_ID="C30" company_ID="Co30">
+	<company industry="Semiconductors" country="Taiwan" name="Taiwan Semiconductor" company_ID="Co30">
 
 		<name>Taiwan Semiconductor</name>
 		<founded format="Date">1987</founded>
@@ -727,6 +720,11 @@
 				<founders>
 				    <founder>Morris Chang</founder>
 				</founders>
+				<CEO sex="male">
+					<name>Morris Chang</name>
+					<birthday format="Date">10/07/1931</birthday>
+					<birthplace>Ningbo, Chekiang, China</birthplace>
+				</CEO>
 				<person office="Chairman">Mark Liu</person>
 			</key_people>
 		</people>
