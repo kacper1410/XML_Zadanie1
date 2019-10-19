@@ -184,6 +184,7 @@
 		<founded format="Date">01/04/1976</founded>
 		<value format="Money">$961.3 billion </value>
 		<people>
+			<employees>132,000</employees>
 			<key_people>
 				<founders>
 				    <founder>Steve Jobs</founder>
@@ -193,7 +194,6 @@
 				<person office="Chairman">Arthur D. Levinson</person>
 				<person office="COO">Jeff Williams</person>
 			</key_people>
-			<employees>132,000</employees>
 		</people>
 		<description>Apple Inc. is an American multinational technology company headquartered in Cupertino, California, that designs, develops, and sells consumer electronics, computer software, and online services. It is considered one of the Big Four tech companies along with Amazon, Google, and Facebook.</description>
 
@@ -205,7 +205,8 @@
 		<founded format="Date">04/04/1975</founded>
 		<value format="Money">$946.5 billion </value>
 		<people>
-			<key_people>
+			<employees>144,106</employees>
+			<key_people>	
 				<founders>
 				    <founder>Bill Gates</founder>
 				    <founder>Paul Allen</founder>			   
@@ -214,7 +215,6 @@
 				<person office="CFO">Amy Hood</person>
 				<person office="CDO">Kurt DelBene</person>
 			</key_people>
-		<employees>144,106</employees>	
 		</people>
 		<description>Microsoft Corporation is an American multinational technology company with headquarters in Redmond, Washington. It develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services.</description>
 		
@@ -226,13 +226,13 @@
 		<founded format="Date">05/07/1994</founded>
 		<value format="Money">$946.5 billion </value>
 		<people>
+			<employees>647,500</employees>
 			<key_people>
 				<founders>
 				    <founder>Jeff Bezos</founder>			   
 				</founders>
 				<person office="CTO">Werner Vogels</person>
 			</key_people>
-			<employees>647,500</employees>
 		</people>
 		
 		<description>Amazon is the largest Internet company by revenue in the world. It is the second largest private employer in the United States and one of the world's most valuable companies. Amazon is the second largest technology company by revenue. Amazon was founded by Jeff Bezos on July 5, 1994, in Bellevue, Washington.</description>
@@ -244,6 +244,7 @@
 		<name>Alphabet</name>
 		<founded format="Date">02/10/2015</founded>
 		<value format="Money">$863.2 billion </value>
+		<employees>103,549</employees>
 		<people>
 			<key_people>
 				<founders>
@@ -254,7 +255,6 @@
 				<person office="Chairman">David Drummond</person>
 				<person office="CFO">Ruth Porat</person>
 			</key_people>
-			<employees>103,549</employees>
 		</people>
 		<description>Alphabet, Inc. is a holding company, which engages in the business of acquisition and operation of different companies. It operates through the Google and Other Bets segments. The Google segment includes its main Internet products such as Ads, Android, Chrome, Commerce, Google Cloud, Google Maps, Google Play, Hardware, Search, and YouTube.</description>
 		
