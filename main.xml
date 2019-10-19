@@ -102,7 +102,7 @@
 			<birthplace>Charlotte, North Carolina, United States</birthplace>
 		</CEO>
 		<CEO sex="male" CEO_ID="C19">
-			<name>David S. Taylor</name>
+			<name>Ben van Beurden</name>
 			<birthday format="Date">23/04/1958</birthday>
 			<birthplace>Roosendaal, Netherlands</birthplace>
 		</CEO>
@@ -112,9 +112,9 @@
 			<birthplace>Syracuse, New York, U.S.</birthplace>
 		</CEO>
 		<CEO sex="male" CEO_ID="C21">
-			<name>John Thomas Chambers</name>
-			<birthday format="Date">23/08/1949</birthday>
-			<birthplace>Cleveland, Ohio, U.S.</birthplace>
+			<name>Charles H. Robbins</name>
+			<birthday format="Date">28/10/1965</birthday>
+			<birthplace>Los Gatos, California, U.S.</birthplace>
 		</CEO>
 		<CEO sex="male" CEO_ID="C22">
 			<name>Ajaypal Singh Banga</name>
@@ -214,7 +214,7 @@
 				<person office="CFO">Amy Hood</person>
 				<person office="CDO">Kurt DelBene</person>
 			</key_people>
-		<employees>144,106</employees>	
+			<employees>144,106</employees>	
 		</people>
 		<description>Microsoft Corporation is an American multinational technology company with headquarters in Redmond, Washington. It develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services.</description>
 		
@@ -389,9 +389,10 @@
 		<value format="Money">$351.9 billion </value>
 		<people>
 			<key_people>
-				<person office=""></person>
-				<person office=""></person>
-				<person office=""></person>
+				<founders>
+				    <founder>Dee Hock</founder>
+				</founders>		
+				<person office="President">Chris Clark </person>
 			</key_people>
 			<employees>17,000</employees>
 		</people>
@@ -406,9 +407,7 @@
 		<value format="Money">$343.4 billion </value>
 		<people>
 			<key_people>
-				<person office=""></person>
-				<person office=""></person>
-				<person office=""></person>
+				<person office="CFO">Andrew P. Swiger</person>
 			</key_people>
 			<employees>71,000</employees>
 		</people>
@@ -423,9 +422,7 @@
 		<value format="Money">$305.1 billion </value>
 		<people>
 			<key_people>
-				<person office=""></person>
-				<person office=""></person>
-				<person office=""></person>
+				<person office="President">Luo Xi</person>
 			</key_people>
 			<employees>453,048</employees>
 		</people>
@@ -440,9 +437,10 @@
 		<value format="Money">$296.1 billion </value>
 		<people>
 			<key_people>
-				<person office=""></person>
-				<person office=""></person>
-				<person office=""></person>
+				<founders>
+				    <founder>Sam Walton</founder>
+				</founders>	
+				<person office="Chairman">Greg Penner</person>
 			</key_people>
 			<employees>2,200,000</employees>
 		</people>
@@ -457,9 +455,8 @@
 		<value format="Money">$287.3 billion </value>
 		<people>
 			<key_people>
-				<person office=""></person>
-				<person office=""></person>
-				<person office=""></person>
+				<person office="Vice_chairman">Anne Finucane</person>
+				<person office="Vice_chairman">Bruce Thompson</person>
 			</key_people>
 			<employees>205,000</employees>
 		</people>
@@ -474,9 +471,10 @@
 		<value format="Money">$281.3 billion </value>
 		<people>
 			<key_people>
-				<person office=""></person>
-				<person office=""></person>
-				<person office=""></person>
+				<founders>
+				    <founder>Henri Nestlé</founder>
+				</founders>	
+				<person office="Chairman">Paul Bulcke</person>
 			</key_people>
 			<employees>308,000</employees>
 		</people>
@@ -491,9 +489,9 @@
 		<value format="Money">$272.4 billion </value>
 		<people>
 			<key_people>
-				<person office=""></person>
-				<person office=""></person>
-				<person office=""></person>
+				<person office="Chairman">Lee Kun-hee</person>
+				<person office="Vice_chairman">Lee Jae-yong</person>
+				<person office="President">Young Sohn</person>
 			</key_people>
 			<employees>320,671</employees>
 		</people>
@@ -508,9 +506,11 @@
 		<value format="Money">$265.3 billion </value>
 		<people>
 			<key_people>
-				<person office=""></person>
-				<person office=""></person>
-				<person office=""></person>
+				<founders>
+				    <founder>William Procter</founder>
+				    <founder>James Gamble</founder>
+				</founders>
+				<person office="CFO">Jon Moeller</person>
 			</key_people>
 			<employees>97,000</employees>
 		</people>
@@ -525,9 +525,11 @@
 		<value format="Money">$264.9 billion </value>
 		<people>
 			<key_people>
-				<person office=""></person>
-				<person office=""></person>
-				<person office=""></person>
+				<founders>
+				    <founder>Samuel Samuel</founder>
+				    <founder>Marcus Samuel</founder>
+				</founders>
+				<person office="Chairman">Charles O. Holliday</person>
 			</key_people>
 			<employees>82,000</employees>
 		</people>
@@ -542,9 +544,12 @@
 		<value format="Money">$263.1 billion </value>
 		<people>
 			<key_people>
-				<person office=""></person>
-				<person office=""></person>
-				<person office=""></person>
+				<founders>
+				    <founder>Gordon Moore</founder>
+				    <founder>Robert Noyce</founder>
+				</founders>
+				<person office="Chairman">Gordon Moore</person>
+				<person office="Chairman">Andy Bryant</person>
 			</key_people>
 			<employees>110,200</employees>
 		</people>
@@ -559,9 +564,12 @@
 		<value format="Money">$248.3 billion </value>
 		<people>
 			<key_people>
-				<person office=""></person>
-				<person office=""></person>
-				<person office=""></person>
+				<founders>
+				    <founder>Leonard Bosack</founder>
+				    <founder>Sandy Lerner</founder>
+				</founders>
+				<person office="CLO">Mark Chandler</person>
+				<person office="CMO">Gerri Elliott</person>
 			</key_people>
 			<employees>74,200</employees>
 		</people>
@@ -577,9 +585,7 @@
 		<value format="Money">$247.1 billion </value>
 		<people>
 			<key_people>
-				<person office=""></person>
-				<person office=""></person>
-				<person office=""></person>
+				<person office="Chairman">Richard Haythornthwaite</person>
 			</key_people>
 			<employees>13,400</employees>
 		</people>
@@ -594,9 +600,7 @@
 		<value format="Money">$239.7 billion </value>
 		<people>
 			<key_people>
-				<person office=""></person>
-				<person office=""></person>
-				<person office=""></person>
+				<person office="CFO">Matthew D. Ellis</person>
 			</key_people>
 			<employees>139,400</employees>
 		</people>
@@ -611,9 +615,11 @@
 		<value format="Money">$238.1 billion </value>
 		<people>
 			<key_people>
-				<person office=""></person>
-				<person office=""></person>
-				<person office=""></person>
+				<founders>
+				    <founder>Walt Disney</founder>
+				    <founder>Roy O. Disney</founder>
+				</founders>
+				<person office="CFO">Christine McCarthy</person>
 			</key_people>
 			<employees>201,000</employees>
 		</people>
@@ -628,9 +634,8 @@
 		<value format="Money">$233.3 billion </value>
 		<people>
 			<key_people>
-				<person office=""></person>
-				<person office=""></person>
-				<person office=""></person>
+				<person office="President">John Stankey</person>
+				<person office="CFO">John J. Stephens</person>
 			</key_people>
 			<employees>273,210</employees>
 		</people>
@@ -645,9 +650,7 @@
 		<value format="Money">$228.3 billion </value>
 		<people>
 			<key_people>
-				<person office=""></person>
-				<person office=""></person>
-				<person office=""></person>
+				<person office="Chairman">Michael Wirth</person>
 			</key_people>
 			<employees>51,900</employees>
 		</people>
@@ -662,9 +665,12 @@
 		<value format="Money">$226.8 billion </value>
 		<people>
 			<key_people>
-				<person office=""></person>
-				<person office=""></person>
-				<person office=""></person>
+				<founders>
+				    <founder>Bernard Marcus</founder>
+				    <founder>Arthur Blank</founder>
+				    <founder>Ron Brill</founder>
+				</founders>
+				<person office="CFO">Richard McPhail</person>
 			</key_people>
 			<employees>400,000</employees>
 		</people>
@@ -680,9 +686,8 @@
 		<value format="Money">$225.0 billion </value>
 		<people>
 			<key_people>
-				<person office=""></person>
-				<person office=""></person>
-				<person office=""></person>
+				<person office="President">Zhang Jianguo </person>
+				<person office="Vice_chairman">Xin Shusen </person>
 			</key_people>
 			<employees>345,971</employees>
 		</people>
@@ -698,9 +703,11 @@
 		<value format="Money">$224.3 billion </value>
 		<people>
 			<key_people>
-				<person office=""></person>
-				<person office=""></person>
-				<person office=""></person>
+				<founders>
+				    <founder>Bill Bowerman</founder>
+				    <founder>Phil Knight</founder>
+				</founders>
+				<person office="Chairman">Phil Knight</person>
 			</key_people>
 			<employees>73,100</employees>
 		</people>
@@ -716,9 +723,10 @@
 		<value format="Money">$222.4 billion </value>
 		<people>
 			<key_people>
-				<person office=""></person>
-				<person office=""></person>
-				<person office=""></person>
+				<founders>
+				    <founder>Morris Chang</founder>
+				</founders>
+				<person office="Chairman">Mark Liu</person>
 			</key_people>
 			<employees>48,000</employees>
 		</people>
