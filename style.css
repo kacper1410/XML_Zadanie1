@@ -2,8 +2,6 @@ companies{
 	background-image: linear-gradient(to right, rgba(135,199,80,25%) , rgba(75,153,139,25%));
 	height: 100%;
 	display: block;
-	/* background-repeat: no-repeat; */
-	/* tutaj można dać obrazek w tle */
 }
 
 header {
@@ -28,6 +26,7 @@ author {
 	text-align: center;
 }
 
+/* HIDE */
 CEOs {
     text-indent: 100%;
     white-space: nowrap;
@@ -43,15 +42,14 @@ industries {
 	color:transparent;
 	font-size: 0px;
 }
-
+/* HIDE */
 
 company {
-	transition: 0.2s;
 	display: block;
 	width: 47%;
 	margin-left: 1%;
 	margin-right: 1%;
-	height: 300px;
+	height: 400px;
 	float: left;
 	text-align: center;
 	margin-top: 15px;
@@ -107,38 +105,121 @@ company:hover[industry = "Semiconductors"] {
 	background-image: linear-gradient(rgba(135,128,68,10%), rgba(132,153,43,10%));
 }
 
-company:hover > name {
-	font-size: 30px;
+company > name {
+	display: block;
+	font-size: 25px;
 	font-weight: bold;
+}
+
+company:hover > name {
+	font-size: 35px;
 	font-style: oblique;
 }
 
-company > founded:before {
-	display: block;
-	text-align: center;
-	content: "Founded: ";
+company > founded {
+	font-size: 17px;
 }
 
-company > value:before {
-	display: block;
-	text-align: center;
-	content: "Value: ";
-}
-
-company > name {
-	display: block;
-	text-align: center;
-	font-size: 20px;
+company:hover > founded {
 	font-weight: bold;
 }
 
-/*CEO {
-	visibility: visible;
-	float: left;
-}*/
+company > founded::before {
+	margin-left: 15%;
+	font-weight: bold;
+	margin-top: 1px;
+	display: block;
+	text-align: left;
+	content: "Founded: ";
+	font-style: oblique;
+}
 
-founder {
+company > value {
+	font-size: 17px;
+}
+
+company:hover > value {
+	font-weight: bold;
+}
+
+company > value:before {
+	margin-left: 15%;
+	font-weight: bold;
+	margin-top: 1px;
+	display: block;
+	text-align: left;
+	content: "Value: ";
+	font-style: oblique;
+}
+
+company employees {
+	display: block;
+	font-size: 17px;
+}
+
+company:hover employees {
+	font-weight: bold;
+}
+
+company employees:before {
+	margin-left: 15%;
+	font-weight: bold;
+	margin-top: 1px;
+	display: block;
+	text-align: left;
+	content: "Employees: ";
+	font-style: oblique;
+}
+
+company key_people {
+	display: block;
+	width: 100%;
+	height: 120px;
+}
+
+company founders {
+	display: block;
+	text-align:center;
+	font-size:20px;
+	width: 60%;
+	float: left;
+	height: 100%;
+}
+
+company person {
+	visibility: hidden;
+	display: block;
+	text-align:left;
+	font-size:17px;
+	margin-top: 2%;
+	display:list-item;
+	list-style:	disc;
+	list-style-position: inside;
+}
+
+company person::before {
+	font-weight: bold;
+	content: attr(office) ": ";
+	font-style: oblique;
+}
+
+company:hover person {
+	visibility: visible;
+}
+
+company founder {
 	list-style-type: disc;
 	display: block;
 	text-align: center;
+}
+
+company founders::before {
+	font-weight: bold;
+	content: "Founders: ";
+	font-style: oblique;
+}
+
+company > description {
+	display: block;
+	font-size: 20px;
 }
