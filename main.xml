@@ -244,8 +244,8 @@
 		<name>Alphabet</name>
 		<founded format="Date">02/10/2015</founded>
 		<value format="Money">$863.2 billion </value>
-		<employees>103,549</employees>
 		<people>
+			<employees>103,549</employees>
 			<key_people>
 				<founders>
 				    <founder>Larry Page</founder>
@@ -266,6 +266,7 @@
 		<founded format="Date">1839</founded>
 		<value format="Money">$516.4 billion </value>
 		<people>
+			<employees>389,373</employees>
 			<key_people>
 				<founders>
 				    <founder>Oliver Chace</founder>
@@ -274,7 +275,6 @@
 				<person office="Vice_chairman">Charles T. Munger</person>
 				<person office="Vice_chairman">Ajit Jain</person>
 			</key_people>
-			<employees>389,373</employees>
 		</people>
 		<description>Berkshire Hathaway is a holding company for a multitude of businesses. It's run by chairman and CEO Warren Buffett. Berkshire Hathaway is headquartered in Omaha, Nebraska and was originally a company comprised of a group of textile milling plants.</description>
 		
@@ -286,6 +286,7 @@
 		<founded format="Date">04/02/2004</founded>
 		<value format="Money">$512 billion </value>
 		<people>
+			<employees>39,651</employees>
 			<key_people>
 				<founders>
 				    <founder>Mark Zuckerberg</founder>
@@ -296,7 +297,6 @@
 				<person office="CFO">David Wehner</person>
 				<person office="CTO">Mike Schroepfer</person>
 			</key_people>
-			<employees>39,651</employees>
 		</people>
 		<description>Facebook, Inc. engages in the development of social media applications for people to connect through mobile devices, personal computers, and other surfaces. It enables users to share opinions, ideas, photos, videos, and other activities online.</description>
 		
@@ -308,6 +308,7 @@
 		<founded format="Date">04/04/1999</founded>
 		<value format="Money">$480.8 billion </value>
 		<people>
+			<employees>101,958</employees>
 			<key_people>
 				<founders>
 				    <founder>Jack Ma</founder>
@@ -315,7 +316,6 @@
 				<person office="Vice_chairman">Joseph Tsai</person>
 				<person office="President">J. Michael Evans</person>
 			</key_people>
-			<employees>101,958</employees>
 		</people>
 		<description>Alibaba is China's — and by some measures, the world's — biggest online commerce company. Its three main sites — Taobao, Tmall and Alibaba.com — have hundreds of millions of users, and host millions of merchants and businesses. Alibaba handles more business than any other e-commerce company.</description>
 		
@@ -327,6 +327,7 @@
 		<founded format="Date">11/11/1998</founded>
 		<value format="Money">$472.1 billion </value>
 		<people>
+			<employees>54,309</employees>
 			<key_people>
 				<founders>
 				    <founder>Ma Huateng</founder>
@@ -335,7 +336,6 @@
 				</founders>	
 				<person office="President">Martin Lau</person>
 			</key_people>
-			<employees>54,309</employees>
 		</people>
 		<description>Tencent Holdings Limited operates as an investment holding company. The Company, through its subsidiaries, provides Internet and mobile value-added services (VAS), online advertising, and e-commerce transactions. Tencent Holdings offers services to users worldwide.</description>
 		
@@ -347,6 +347,7 @@
 		<founded format="Date">01/12/2000</founded>
 		<value format="Money">$368.5 billion </value>
 		<people>
+			<employees>254,983</employees>
 			<key_people>
 				<founders>
 				    <founder>John Pierpont Morgan</founder>
@@ -354,7 +355,6 @@
 				<person office="CFO">Jennifer Piepszak</person>
 				<person office="COO">Daniel E. Pinto</person>
 			</key_people>
-			<employees>254,983</employees>
 		</people>
 		<description>JPMorgan Chase &amp; Co. is a financial holding company. The Company is engaged in investment banking, financial services. It operates in four segments, as well as a Corporate segment. Its segments are Consumer &amp; Community Banking, Corporate &amp; Investment Bank, Commercial Banking and Asset Management.
 		</description>
@@ -367,6 +367,7 @@
 		<founded format="Date">1886</founded>
 		<value format="Money">$366.2 billion </value>
 		<people>
+			<employees>134,000</employees>
 			<key_people>
 				<founders>
 				    <founder>Robert Wood Johnson I</founder>
@@ -375,7 +376,6 @@
 				</founders>					
 				<person office="Chairman">William C. Weldon </person>
 			</key_people>
-			<employees>134,000</employees>
 		</people>
 		<description>Johnson &amp; Johnson is a holding company, which engages in the research and development, manufacture and sale of products in the health care field. It operates through the following segments: Consumer, Pharmaceutical, and Medical Devices.
 		</description>
@@ -388,13 +388,13 @@
 		<founded format="Date">15/09/1958</founded>
 		<value format="Money">$351.9 billion </value>
 		<people>
+			<employees>17,000</employees>
 			<key_people>
 				<founders>
 				    <founder>Dee Hock</founder>
 				</founders>		
 				<person office="President">Chris Clark </person>
 			</key_people>
-			<employees>17,000</employees>
 		</people>
 		<description>Visa Inc. (Visa) is a payments technology company that connects consumers, merchants, financial institutions, businesses, strategic partners and government entities to electronic payments. The Company enables global commerce through the transfer of value and information among the participants.</description>
 		
@@ -406,10 +406,10 @@
 		<founded format="Date">30/11/1999</founded>
 		<value format="Money">$343.4 billion </value>
 		<people>
+			<employees>71,000</employees>
 			<key_people>
 				<person office="CFO">Andrew P. Swiger</person>
 			</key_people>
-			<employees>71,000</employees>
 		</people>
 		<description>ExxonMobil, the largest publicly traded international oil and gas company, uses technology and innovation to help meet the world's growing energy needs. We hold an industry-leading inventory of resources and are one of the world's largest integrated refiners, marketers of petroleum products and chemical manufacturers.</description>
 		
@@ -421,10 +421,10 @@
 		<founded format="Date">01/01/1984</founded>
 		<value format="Money">$305.1 billion </value>
 		<people>
+			<employees>453,048</employees>
 			<key_people>
 				<person office="President">Luo Xi</person>
 			</key_people>
-			<employees>453,048</employees>
 		</people>
 		<description>ICBC is a Chinese multinational banking company. It is the largest bank in China, and the largest bank in the world by total assets, deposits, loans, number of customers and number of employees.</description>
 		
@@ -436,13 +436,13 @@
 		<founded format="Date">13/06/1945</founded>
 		<value format="Money">$296.1 billion </value>
 		<people>
+			<employees>2,200,000</employees>
 			<key_people>
 				<founders>
 				    <founder>Sam Walton</founder>
 				</founders>	
 				<person office="Chairman">Greg Penner</person>
 			</key_people>
-			<employees>2,200,000</employees>
 		</people>
 		<description>Walmart, Inc. engages in retail and wholesale business. The Company offers an assortment of merchandise and services at everyday low prices. It operates through the following business segments: Walmart U.S., Walmart International, and Sam's Club.</description>
 		
@@ -454,11 +454,11 @@
 		<founded format="Date">18/09/1998</founded>
 		<value format="Money">$287.3 billion </value>
 		<people>
+			<employees>205,000</employees>
 			<key_people>
 				<person office="Vice_chairman">Anne Finucane</person>
 				<person office="Vice_chairman">Bruce Thompson</person>
 			</key_people>
-			<employees>205,000</employees>
 		</people>
 		<description>Bank of America is one of the world's leading financial institutions, serving individual consumers, small and middle-market businesses and large corporations with a full range of banking, investing, asset management and other financial and risk management products and services.</description>
 		
@@ -470,13 +470,13 @@
 		<founded format="Date">1886</founded>
 		<value format="Money">$281.3 billion </value>
 		<people>
+			<employees>308,000</employees>
 			<key_people>
 				<founders>
 				    <founder>Henri Nestlé</founder>
 				</founders>	
 				<person office="Chairman">Paul Bulcke</person>
 			</key_people>
-			<employees>308,000</employees>
 		</people>
 		<description>Nestlé SA is a nutrition, health and wellness company, which engages in the manufacture, supply and production of prepared dishes and cooking aids, milk-based products, pharmaceuticals and ophthalmic goods, baby foods and cereals.</description>
 		
@@ -488,12 +488,12 @@
 		<founded format="Date">13/01/1969</founded>
 		<value format="Money">$272.4 billion </value>
 		<people>
+			<employees>320,671</employees>
 			<key_people>
 				<person office="Chairman">Lee Kun-hee</person>
 				<person office="Vice_chairman">Lee Jae-yong</person>
 				<person office="President">Young Sohn</person>
 			</key_people>
-			<employees>320,671</employees>
 		</people>
 		<description>Samsung specializes in the production of a wide variety of consumer and industry electronics, including appliances, digital media devices, semiconductors, memory chips, and integrated systems. It has become one of the most-recognizable names in technology and produces about a fifth of South Korea's total exports.</description>
 		
@@ -505,6 +505,7 @@
 		<founded format="Date">31/10/1837</founded>
 		<value format="Money">$265.3 billion </value>
 		<people>
+			<employees>97,000</employees>
 			<key_people>
 				<founders>
 				    <founder>William Procter</founder>
@@ -512,7 +513,6 @@
 				</founders>
 				<person office="CFO">Jon Moeller</person>
 			</key_people>
-			<employees>97,000</employees>
 		</people>
 		<description>The Procter &amp; Gamble Company is focused on providing branded consumer packaged goods to the consumers across the world. The Company operates through five segments: Beauty; Grooming; Health Care; Fabric &amp; Home Care, and Baby, Feminine &amp; Family Care.</description>
 		
@@ -524,6 +524,7 @@
 		<founded format="Date">02/04/1907</founded>
 		<value format="Money">$264.9 billion </value>
 		<people>
+			<employees>82,000</employees>
 			<key_people>
 				<founders>
 				    <founder>Samuel Samuel</founder>
@@ -531,7 +532,6 @@
 				</founders>
 				<person office="Chairman">Charles O. Holliday</person>
 			</key_people>
-			<employees>82,000</employees>
 		</people>
 		<description>Royal Dutch Shell Plc engages in the oil and natural gas production. It operates through the following segments: Integrated Gas, Upstream, Downstream, and Corporate. The Integrated Gas segment manages liquefied natural gas activities and the conversion of natural gas into gas to liquids fuels and other products.</description>
 		
@@ -543,6 +543,7 @@
 		<founded format="Date">18/07/1968</founded>
 		<value format="Money">$263.1 billion </value>
 		<people>
+			<employees>110,200</employees>
 			<key_people>
 				<founders>
 				    <founder>Gordon Moore</founder>
@@ -551,7 +552,6 @@
 				<person office="Chairman">Gordon Moore</person>
 				<person office="Chairman">Andy Bryant</person>
 			</key_people>
-			<employees>110,200</employees>
 		</people>
 		<description>Intel supplies processors for computer system manufacturers such as Apple, Lenovo, HP, and Dell. Intel also manufactures motherboard chipsets, network interface controllers and integrated circuits, flash memory, graphics chips, embedded processors and other devices related to communications and computing.</description>
 		
@@ -563,6 +563,7 @@
 		<founded format="Date">10/12/1984</founded>
 		<value format="Money">$248.3 billion </value>
 		<people>
+			<employees>74,200</employees>
 			<key_people>
 				<founders>
 				    <founder>Leonard Bosack</founder>
@@ -571,7 +572,6 @@
 				<person office="CLO">Mark Chandler</person>
 				<person office="CMO">Gerri Elliott</person>
 			</key_people>
-			<employees>74,200</employees>
 		</people>
 		<description>Cisco Systems, Inc. is an American multinational technology conglomerate headquartered in San Jose, California, in the center of Silicon Valley. Cisco develops, manufactures and sells networking hardware, telecommunications equipment and other high-technology services and products.
 		</description>
@@ -584,10 +584,10 @@
 		<founded format="Date">1966</founded>
 		<value format="Money">$247.1 billion </value>
 		<people>
+			<employees>13,400</employees>
 			<key_people>
 				<person office="Chairman">Richard Haythornthwaite</person>
 			</key_people>
-			<employees>13,400</employees>
 		</people>
 		<description>A MasterCard card is any electronic payment card that uses the MasterCard network for processing transaction communications. These cards are typically branded with a MasterCard logo. They can be credit, debit, or prepaid cards.</description>
 		
@@ -614,6 +614,7 @@
 		<founded format="Date">16/10/1923</founded>
 		<value format="Money">$238.1 billion </value>
 		<people>
+			<employees>201,000</employees>
 			<key_people>
 				<founders>
 				    <founder>Walt Disney</founder>
@@ -621,7 +622,6 @@
 				</founders>
 				<person office="CFO">Christine McCarthy</person>
 			</key_people>
-			<employees>201,000</employees>
 		</people>
 		<description>The Walt Disney Co. is a diversified international family entertainment and media enterprise. It operates through the following segments: Media Networks, Parks &amp; Resorts, Studio Entertainment and Consumer Products &amp; Interactive Media.</description>
 		
@@ -633,11 +633,11 @@
 		<founded format="Date">05/10/1983</founded>
 		<value format="Money">$233.3 billion </value>
 		<people>
+			<employees>273,210</employees>
 			<key_people>
 				<person office="President">John Stankey</person>
 				<person office="CFO">John J. Stephens</person>
 			</key_people>
-			<employees>273,210</employees>
 		</people>
 		<description>AT&amp;T Communications provides mobile, broadband, video and other communications services to U.S.-based consumers and nearly 3 million companies globally - from the smallest business to nearly all the Fortune 1000 - with highly secure, smart solutions.</description>
 		
@@ -649,10 +649,10 @@
 		<founded format="Date">05/10/1983</founded>
 		<value format="Money">$228.3 billion </value>
 		<people>
+			<employees>51,900</employees>
 			<key_people>
 				<person office="Chairman">Michael Wirth</person>
 			</key_people>
-			<employees>51,900</employees>
 		</people>
 		<description>Chevron Corporation is an American multinational energy corporation. One of the successor companies of Standard Oil, it is headquartered in San Ramon, California, and active in more than 180 countries.</description>
 		
@@ -664,6 +664,7 @@
 		<founded format="Date">1978</founded>
 		<value format="Money">$226.8 billion </value>
 		<people>
+			<employees>400,000</employees>
 			<key_people>
 				<founders>
 				    <founder>Bernard Marcus</founder>
@@ -672,7 +673,6 @@
 				</founders>
 				<person office="CFO">Richard McPhail</person>
 			</key_people>
-			<employees>400,000</employees>
 		</people>
 		<description>The Home Depot, Inc. is a home improvement retailer. The Home Depot stores sell a variety of building supplies, home enhancement and lawn and garden products, and offer a number of services.
 		</description>
@@ -685,11 +685,11 @@
 		<founded format="Date">1954</founded>
 		<value format="Money">$225.0 billion </value>
 		<people>
+			<employees>345,971</employees>
 			<key_people>
 				<person office="President">Zhang Jianguo </person>
 				<person office="Vice_chairman">Xin Shusen </person>
 			</key_people>
-			<employees>345,971</employees>
 		</people>
 		<description>China Construction Bank Corporation (CCB) is one of the "big four" banks in the People's Republic of China.In 2015 CCB was the 2nd largest bank in the world by market capitalization and 6th largest company in the world.
 		</description>
@@ -702,6 +702,7 @@
 		<founded format="Date">25/01/1964</founded>
 		<value format="Money">$224.3 billion </value>
 		<people>
+			<employees>73,100</employees>
 			<key_people>
 				<founders>
 				    <founder>Bill Bowerman</founder>
@@ -709,7 +710,6 @@
 				</founders>
 				<person office="Chairman">Phil Knight</person>
 			</key_people>
-			<employees>73,100</employees>
 		</people>
 		<description>Nike, Inc. is an American multinational corporation that is engaged in the design, development, manufacturing, and worldwide marketing and sales of footwear, apparel, equipment, accessories, and services.
 		</description>
@@ -722,13 +722,13 @@
 		<founded format="Date">1987</founded>
 		<value format="Money">$222.4 billion </value>
 		<people>
+			<employees>48,000</employees>
 			<key_people>
 				<founders>
 				    <founder>Morris Chang</founder>
 				</founders>
 				<person office="Chairman">Mark Liu</person>
 			</key_people>
-			<employees>48,000</employees>
 		</people>
 		<description>Taiwan Semiconductor Manufacturing Company, Limited, also known as Taiwan Semiconductor, is the world's largest dedicated independent semiconductor foundry, with its headquarters and main operations located in the Hsinchu Science and Industrial Park in Hsinchu, Taiwan.
 		</description>
