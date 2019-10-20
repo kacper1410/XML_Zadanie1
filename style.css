@@ -42,7 +42,7 @@ industries {
 company {
 	display: block;
 	width: 47.5%;
-	height: 400px;
+	height: 430px;
 	margin-left: 1%;
 	margin-right: 1%;
 	float: left;
@@ -212,6 +212,7 @@ company CEO::before {
 	content: "CEO: ";
 	font-style: oblique;
 }
+
 
 company person::before {
 	font-weight: bold;
