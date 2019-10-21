@@ -44,8 +44,10 @@
 				    <founder>Steve Wozniak</founder>
 				    <founder>Ronald Wayne</founder>				   
 				</founders>
-				<person office="Chairman">Arthur D. Levinson</person>
-				<person office="COO">Jeff Williams</person>
+				<employee>
+					<person office="Chairman">Arthur D. Levinson</person>
+					<person office="COO">Jeff Williams</person>
+				</employee>
 			</key_people>
 		</people>
 		<description>Apple Inc. is an American multinational technology company headquartered in Cupertino, California, that designs, develops, and sells consumer electronics, computer software, and online services. It is considered one of the Big Four tech companies along with Amazon, Google, and Facebook.</description>
@@ -69,9 +71,11 @@
 				    <founder>Bill Gates</founder>
 				    <founder>Paul Allen</founder>			   
 				</founders>
-				<person office="CMO">Chris Capossela</person>
-				<person office="CFO">Amy Hood</person>
-				<person office="CDO">Kurt DelBene</person>
+				<employee>
+					<person office="CMO">Chris Capossela</person>
+					<person office="CFO">Amy Hood</person>
+					<person office="CDO">Kurt DelBene</person>
+				</employee>
 			</key_people>
 		</people>
 		<description>Microsoft Corporation is an American multinational technology company with headquarters in Redmond, Washington. It develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services.</description>
@@ -94,7 +98,9 @@
 				<founders>
 				    <founder>Jeff Bezos</founder>			   
 				</founders>
-				<person office="CTO">Werner Vogels</person>
+				<employee>
+					<person office="CTO">Werner Vogels</person>
+				</employee>
 			</key_people>
 		</people>
 		
@@ -119,9 +125,11 @@
 				    <founder>Larry Page</founder>
 				    <founder>Sergey Brin</founder>   
 				</founders>
-				<person office="President">Sergey Brin</person>
-				<person office="Chairman">David Drummond</person>
-				<person office="CFO">Ruth Porat</person>
+				<employee>
+					<person office="President">Sergey Brin</person>
+					<person office="Chairman">David Drummond</person>
+					<person office="CFO">Ruth Porat</person>
+				</employee>
 			</key_people>
 		</people>
 		<description>Alphabet, Inc. is a holding company, which engages in the business of acquisition and operation of different companies. It operates through the Google and Other Bets segments. The Google segment includes its main Internet products such as Ads, Android, Chrome, Commerce, Google Cloud, Google Maps, Google Play, Hardware, Search, and YouTube.</description>
@@ -316,7 +324,9 @@
 					<birthday format="Date">28/12/1964</birthday>
 					<birthplace>Wichita, Kansas, U.S.</birthplace>
 				</CEO>
-				<person office="CFO">Andrew P. Swiger</person>
+				<employee>
+					<person office="CFO">Andrew P. Swiger</person>
+				</employee>
 			</key_people>
 		</people>
 		<description>ExxonMobil, the largest publicly traded international oil and gas company, uses technology and innovation to help meet the world's growing energy needs. We hold an industry-leading inventory of resources and are one of the world's largest integrated refiners, marketers of petroleum products and chemical manufacturers.</description>
@@ -379,8 +389,10 @@
 					<birthday format="Date">19/10/1959</birthday>
 					<birthplace>Marietta, Ohio, U.S.</birthplace>
 				</CEO>
-				<person office="Vice_chairman">Anne Finucane</person>
-				<person office="Vice_chairman">Bruce Thompson</person>
+				<employee>
+					<person office="Vice_chairman">Anne Finucane</person>
+					<person office="Vice_chairman">Bruce Thompson</person>
+				</employee>
 			</key_people>
 		</people>
 		<description>Bank of America is one of the world's leading financial institutions, serving individual consumers, small and middle-market businesses and large corporations with a full range of banking, investing, asset management and other financial and risk management products and services.</description>
@@ -521,8 +533,10 @@
 				    <founder>Leonard Bosack</founder>
 				    <founder>Sandy Lerner</founder>
 				</founders>
-				<person office="CLO">Mark Chandler</person>
-				<person office="CMO">Gerri Elliott</person>
+				<employee>
+					<person office="CLO">Mark Chandler</person>
+					<person office="CMO">Gerri Elliott</person>
+				</employee>
 			</key_people>
 		</people>
 		<description>Cisco Systems, Inc. is an American multinational technology conglomerate headquartered in San Jose, California, in the center of Silicon Valley. Cisco develops, manufactures and sells networking hardware, telecommunications equipment and other high-technology services and products.
