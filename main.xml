@@ -153,8 +153,10 @@
 				    <founder>Oliver Chace</founder>
 				    <founder>Warren Buffett</founder>   
 				</founders>
-				<person office="Vice_chairman">Charles T. Munger</person>
-				<person office="Vice_chairman">Ajit Jain</person>
+				<employee>
+					<person office="Vice_chairman">Charles T. Munger</person>
+					<person office="Vice_chairman">Ajit Jain</person>
+				</employee>
 			</key_people>
 		</people>
 		<description>Berkshire Hathaway is a holding company for a multitude of businesses. It's run by chairman and CEO Warren Buffett. Berkshire Hathaway is headquartered in Omaha, Nebraska and was originally a company comprised of a group of textile milling plants.</description>
@@ -179,9 +181,11 @@
 				    <founder>Eduardo Saverin</founder>   
 				    <founder>Andrew McCollum</founder>
 				</founders>
-				<person office="COO">Sheryl Sandberg</person>
-				<person office="CFO">David Wehner</person>
-				<person office="CTO">Mike Schroepfer</person>
+				<employee>
+					<person office="COO">Sheryl Sandberg</person>
+					<person office="CFO">David Wehner</person>
+					<person office="CTO">Mike Schroepfer</person>
+				</employee>
 			</key_people>
 		</people>
 		<description>Facebook, Inc. engages in the development of social media applications for people to connect through mobile devices, personal computers, and other surfaces. It enables users to share opinions, ideas, photos, videos, and other activities online.</description>
@@ -204,8 +208,10 @@
 				<founders>
 				    <founder>Jack Ma</founder>
 				</founders>
-				<person office="Vice_chairman">Joseph Tsai</person>
-				<person office="President">J. Michael Evans</person>
+				<employee>
+					<person office="Vice_chairman">Joseph Tsai</person>
+					<person office="President">J. Michael Evans</person>
+				</employee>
 			</key_people>
 		</people>
 		<description>Alibaba is China's — and by some measures, the world's — biggest online commerce company. Its three main sites — Taobao, Tmall and Alibaba.com — have hundreds of millions of users, and host millions of merchants and businesses. Alibaba handles more business than any other e-commerce company.</description>
@@ -230,7 +236,9 @@
 				    <founder>Zhang Zhidong</founder>
 				    <founder>Xu Chenye</founder>
 				</founders>
-				<person office="President">Martin Lau</person>
+				<employee>
+					<person office="President">Martin Lau</person>
+				</employee>
 			</key_people>
 		</people>
 		<description>Tencent Holdings Limited operates as an investment holding company. The Company, through its subsidiaries, provides Internet and mobile value-added services (VAS), online advertising, and e-commerce transactions. Tencent Holdings offers services to users worldwide.</description>
@@ -253,8 +261,10 @@
 				<founders>
 				    <founder>John Pierpont Morgan</founder>
 				</founders>
-				<person office="CFO">Jennifer Piepszak</person>
-				<person office="COO">Daniel E. Pinto</person>
+				<employee>
+					<person office="CFO">Jennifer Piepszak</person>
+					<person office="COO">Daniel E. Pinto</person>
+				</employee>
 			</key_people>
 		</people>
 		<description>JPMorgan Chase &amp; Co. is a financial holding company. The Company is engaged in investment banking, financial services. It operates in four segments, as well as a Corporate segment. Its segments are Consumer &amp; Community Banking, Corporate &amp; Investment Bank, Commercial Banking and Asset Management.
@@ -280,7 +290,9 @@
 				    <founder>James Wood Johnson</founder>
 				    <founder>Edward Mead Johnson</founder>
 				</founders>
-				<person office="Chairman">William C. Weldon </person>
+				<employee>
+					<person office="Chairman">William C. Weldon </person>
+				</employee>
 			</key_people>
 		</people>
 		<description>Johnson &amp; Johnson is a holding company, which engages in the research and development, manufacture and sale of products in the health care field. It operates through the following segments: Consumer, Pharmaceutical, and Medical Devices.
@@ -304,7 +316,9 @@
 				<founders>
 				    <founder>Dee Hock</founder>
 				</founders>
-				<person office="President">Chris Clark </person>
+				<employee>
+					<person office="President">Chris Clark </person>
+				</employee>
 			</key_people>
 		</people>
 		<description>Visa Inc. (Visa) is a payments technology company that connects consumers, merchants, financial institutions, businesses, strategic partners and government entities to electronic payments. The Company enables global commerce through the transfer of value and information among the participants.</description>
@@ -346,7 +360,9 @@
 					<birthday format="Date">15/12/1964</birthday>
 					<birthplace>Cangnan County,Zhejiang, China</birthplace>
 				</CEO>
-				<person office="President">Luo Xi</person>
+				<employee>
+					<person office="President">Luo Xi</person>
+				</employee>
 			</key_people>
 		</people>
 		<description>ICBC is a Chinese multinational banking company. It is the largest bank in China, and the largest bank in the world by total assets, deposits, loans, number of customers and number of employees.</description>
@@ -369,7 +385,9 @@
 				<founders>
 				    <founder>Sam Walton</founder>
 				</founders>
-				<person office="Chairman">Greg Penner</person>
+				<employee>
+					<person office="Chairman">Greg Penner</person>
+				</employee>
 			</key_people>
 		</people>
 		<description>Walmart, Inc. engages in retail and wholesale business. The Company offers an assortment of merchandise and services at everyday low prices. It operates through the following business segments: Walmart U.S., Walmart International, and Sam's Club.</description>
@@ -415,7 +433,9 @@
 				<founders>
 				    <founder>Henri Nestlé</founder>
 				</founders>
-				<person office="Chairman">Paul Bulcke</person>
+				<employee>
+					<person office="Chairman">Paul Bulcke</person>
+				</employee>
 			</key_people>
 		</people>
 		<description>Nestlé SA is a nutrition, health and wellness company, which engages in the manufacture, supply and production of prepared dishes and cooking aids, milk-based products, pharmaceuticals and ophthalmic goods, baby foods and cereals.</description>
@@ -435,8 +455,10 @@
 					<birthday format="Date">15/10/1952</birthday>
 					<birthplace>Seoul, South Korea</birthplace>
 				</CEO>
-				<person office="Chairman">Lee Kun-hee</person>
-				<person office="President">Young Sohn</person>
+				<employee>
+					<person office="Chairman">Lee Kun-hee</person>
+					<person office="President">Young Sohn</person>
+				</employee>
 			</key_people>
 		</people>
 		<description>Samsung specializes in the production of a wide variety of consumer and industry electronics, including appliances, digital media devices, semiconductors, memory chips, and integrated systems. It has become one of the most-recognizable names in technology and produces about a fifth of South Korea's total exports.</description>
@@ -460,7 +482,9 @@
 				    <founder>William Procter</founder>
 				    <founder>James Gamble</founder>
 				</founders>
-				<person office="CFO">Jon Moeller</person>
+				<employee>
+					<person office="CFO">Jon Moeller</person>
+				</employee>
 			</key_people>
 		</people>
 		<description>The Procter &amp; Gamble Company is focused on providing branded consumer packaged goods to the consumers across the world. The Company operates through five segments: Beauty; Grooming; Health Care; Fabric &amp; Home Care, and Baby, Feminine &amp; Family Care.</description>
@@ -484,7 +508,9 @@
 				    <founder>Samuel Samuel</founder>
 				    <founder>Marcus Samuel</founder>
 				</founders>
-				<person office="Chairman">Charles O. Holliday</person>
+				<employee>
+					<person office="Chairman">Charles O. Holliday</person>
+				</employee>
 			</key_people>
 		</people>
 		<description>Royal Dutch Shell Plc engages in the oil and natural gas production. It operates through the following segments: Integrated Gas, Upstream, Downstream, and Corporate. The Integrated Gas segment manages liquefied natural gas activities and the conversion of natural gas into gas to liquids fuels and other products.</description>
@@ -508,8 +534,10 @@
 				    <founder>Gordon Moore</founder>
 				    <founder>Robert Noyce</founder>
 				</founders>
-				<person office="Chairman">Gordon Moore</person>
-				<person office="Chairman">Andy Bryant</person>
+				<employee>
+					<person office="Chairman">Gordon Moore</person>
+					<person office="Chairman">Andy Bryant</person>
+				</employee>
 			</key_people>
 		</people>
 		<description>Intel supplies processors for computer system manufacturers such as Apple, Lenovo, HP, and Dell. Intel also manufactures motherboard chipsets, network interface controllers and integrated circuits, flash memory, graphics chips, embedded processors and other devices related to communications and computing.</description>
@@ -557,7 +585,9 @@
 					<birthday format="Date">08/08/1960</birthday>
 					<birthplace>Pune, India</birthplace>
 				</CEO>
-				<person office="Chairman">Richard Haythornthwaite</person>
+				<employee>
+					<person office="Chairman">Richard Haythornthwaite</person>
+				</employee>
 			</key_people>
 		</people>
 		<description>A MasterCard card is any electronic payment card that uses the MasterCard network for processing transaction communications. These cards are typically branded with a MasterCard logo. They can be credit, debit, or prepaid cards.</description>
@@ -577,7 +607,9 @@
 					<birthday format="Date">03/09/1960</birthday>
 					<birthplace>Buffalo, New York, U.S.</birthplace>
 				</CEO>
-				<person office="CFO">Matthew D. Ellis</person>
+				<employee>
+					<person office="CFO">Matthew D. Ellis</person>
+				</employee>
 			</key_people>
 		</people>
 		<description>Verizon Communications Inc. is an American multinational telecommunications conglomerate and a corporate component of the Dow Jones Industrial Average. The company is based at 1095 Avenue of the Americas in Midtown Manhattan, New York City, but is incorporated in Delaware.</description>
@@ -601,7 +633,9 @@
 				    <founder>Walt Disney</founder>
 				    <founder>Roy O. Disney</founder>
 				</founders>
-				<person office="CFO">Christine McCarthy</person>
+				<employee>
+					<person office="CFO">Christine McCarthy</person>
+				</employee>
 			</key_people>
 		</people>
 		<description>The Walt Disney Co. is a diversified international family entertainment and media enterprise. It operates through the following segments: Media Networks, Parks &amp; Resorts, Studio Entertainment and Consumer Products &amp; Interactive Media.</description>
@@ -621,8 +655,10 @@
 					<birthday format="Date">22/09/1960</birthday>
 					<birthplace>Oklahoma City, Oklahoma, U.S.</birthplace>
 				</CEO>
-				<person office="President">John Stankey</person>
-				<person office="CFO">John J. Stephens</person>
+				<employee>
+					<person office="President">John Stankey</person>
+					<person office="CFO">John J. Stephens</person>
+				</employee>
 			</key_people>
 		</people>
 		<description>AT&amp;T Communications provides mobile, broadband, video and other communications services to U.S.-based consumers and nearly 3 million companies globally - from the smallest business to nearly all the Fortune 1000 - with highly secure, smart solutions.</description>
@@ -642,7 +678,9 @@
 					<birthday format="Date">28/05/1956</birthday>
 					<birthplace>San Ramon, California, U.S.</birthplace>
 				</CEO>
-				<person office="Chairman">Michael Wirth</person>
+				<employee>
+					<person office="Chairman">Michael Wirth</person>
+				</employee>
 			</key_people>
 		</people>
 		<description>Chevron Corporation is an American multinational energy corporation. One of the successor companies of Standard Oil, it is headquartered in San Ramon, California, and active in more than 180 countries.</description>
@@ -667,7 +705,9 @@
 				    <founder>Arthur Blank</founder>
 				    <founder>Ron Brill</founder>
 				</founders>
-				<person office="CFO">Richard McPhail</person>
+				<employee>
+					<person office="CFO">Richard McPhail</person>
+				</employee>
 			</key_people>
 		</people>
 		<description>The Home Depot, Inc. is a home improvement retailer. The Home Depot stores sell a variety of building supplies, home enhancement and lawn and garden products, and offer a number of services.
@@ -688,8 +728,10 @@
 					<birthday format="Date">15/07/1954</birthday>
 					<birthplace>Changtu County, Liaoning, China</birthplace>
 				</CEO>
-				<person office="President">Zhang Jianguo </person>
-				<person office="Vice_chairman">Xin Shusen </person>
+				<employee>
+					<person office="Vice_chairman">Xin Shusen </person>
+					<person office="President">Zhang Jianguo </person>
+				</employee>
 			</key_people>
 		</people>
 		<description>China Construction Bank Corporation (CCB) is one of the "big four" banks in the People's Republic of China.In 2015 CCB was the 2nd largest bank in the world by market capitalization and 6th largest company in the world.
@@ -714,7 +756,9 @@
 				    <founder>Bill Bowerman</founder>
 				    <founder>Phil Knight</founder>
 				</founders>
-				<person office="Chairman">Phil Knight</person>
+				<employee>
+					<person office="Chairman">Phil Knight</person>
+				</employee>
 			</key_people>
 		</people>
 		<description>Nike, Inc. is an American multinational corporation that is engaged in the design, development, manufacturing, and worldwide marketing and sales of footwear, apparel, equipment, accessories, and services.
@@ -738,7 +782,9 @@
 				<founders>
 				    <founder>Morris Chang</founder>
 				</founders>
-				<person office="Chairman">Mark Liu</person>
+				<employee>
+					<person office="Chairman">Mark Liu</person>
+				</employee>
 			</key_people>
 		</people>
 		<description>Taiwan Semiconductor Manufacturing Company, Limited, also known as Taiwan Semiconductor, is the world's largest dedicated independent semiconductor foundry, with its headquarters and main operations located in the Hsinchu Science and Industrial Park in Hsinchu, Taiwan.
