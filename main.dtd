@@ -37,8 +37,8 @@
                         <!ELEMENT birthplace (#PCDATA)>
                     <!ELEMENT founders (founder+)>
                         <!ELEMENT founder (#PCDATA)>
-                <!ELEMENT employee (person*)>
-                <!ELEMENT person (#PCDATA)>
-                <!ATTLIST person
-                        office (CDO|CFO|CMO|COO|CTO|CLO|Chairman|President|Vice_chairman) #REQUIRED>
+                    <!ELEMENT employee (person*)>
+                        <!ELEMENT person (#PCDATA)>
+                        <!ATTLIST person
+                                office (CDO|CFO|CMO|COO|CTO|CLO|Chairman|President|Vice_chairman) #REQUIRED>
             <!ELEMENT description (#PCDATA)>
