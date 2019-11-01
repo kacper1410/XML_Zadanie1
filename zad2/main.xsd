@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema attributeFormDefault="unqualified"
+           elementFormDefault="qualified"
+           xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+  <xs:element name="companies" type="companiesType"/>
+  <xs:complexType name="headerType">
+    <xs:sequence>
+      <xs:element type="xs:string" name="title"/>
+      <xs:element name="author" maxOccurs="unbounded" minOccurs="0">
+        <xs:simpleType>
+          <xs:restriction base="xs:string">
+            <xs:enumeration value="Kacper Świercz 224443"/>
+            <xs:enumeration value="Patryk Kolanek 224333"/>
+          </xs:restriction>
+        </xs:simpleType>
+      </xs:element>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="industryType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="industry" use="optional"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="industriesType">
+    <xs:sequence>
+      <xs:element type="industryType" name="industry" maxOccurs="unbounded" minOccurs="0"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="foundedType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="format" use="optional"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="valueType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="format" use="optional"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="birthdayType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="format" use="optional"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="CEOType">
+    <xs:sequence>
+      <xs:element type="xs:string" name="name"/>
+      <xs:element type="birthdayType" name="birthday"/>
+      <xs:element type="xs:string" name="birthplace"/>
+    </xs:sequence>
+    <xs:attribute type="xs:string" name="sex" use="optional"/>
+  </xs:complexType>
+  <xs:complexType name="foundersType">
+    <xs:sequence>
+      <xs:element type="xs:string" name="founder" maxOccurs="unbounded" minOccurs="0"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="personType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="office" use="optional"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="employeeType">
+    <xs:sequence>
+      <xs:element type="personType" name="person" maxOccurs="unbounded" minOccurs="0"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="key_peopleType">
+    <xs:sequence>
+      <xs:element type="CEOType" name="CEO"/>
+      <xs:element type="foundersType" name="founders" minOccurs="0"/>
+      <xs:element type="employeeType" name="employee"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="peopleType">
+    <xs:sequence>
+      <xs:element type="xs:string" name="employees"/>
+      <xs:element type="key_peopleType" name="key_people"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="companyType">
+    <xs:sequence>
+      <xs:element type="xs:string" name="name"/>
+      <xs:element type="foundedType" name="founded"/>
+      <xs:element type="valueType" name="value"/>
+      <xs:element type="peopleType" name="people"/>
+      <xs:element type="xs:string" name="description"/>
+    </xs:sequence>
+    <xs:attribute type="xs:string" name="industry" use="optional"/>
+    <xs:attribute type="xs:string" name="country" use="optional"/>
+    <xs:attribute type="xs:string" name="name" use="optional"/>
+    <xs:attribute type="xs:string" name="company_ID" use="optional"/>
+  </xs:complexType>
+  <xs:complexType name="companiesType">
+    <xs:sequence>
+      <xs:element type="headerType" name="header"/>
+      <xs:element type="industriesType" name="industries"/>
+      <xs:element type="companyType" name="company" maxOccurs="unbounded" minOccurs="0"/>
+    </xs:sequence>
+  </xs:complexType>
+
+</xs:schema>
