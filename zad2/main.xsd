@@ -57,7 +57,7 @@ targetNamespace="companies">
 
     <xs:complexType name="companyType">
         <xs:sequence>
-            <xs:element type="xs:string" name="name"/>
+            <xs:element type="com:nameType" name="name"/>
             <xs:element type="com:dateType" name="founded"/>
             <xs:element type="com:valueType" name="value"/>
             <xs:element type="com:peopleType" name="people"/>
@@ -179,7 +179,7 @@ targetNamespace="companies">
 
     <xs:complexType name="personType">
         <xs:simpleContent>
-            <xs:extension base="xs:string">
+            <xs:extension base="com:nameType">
                 <xs:attribute type="com:officeType" name="office"/>
             </xs:extension>
         </xs:simpleContent>
