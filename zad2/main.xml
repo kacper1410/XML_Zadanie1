@@ -32,7 +32,7 @@
 		<founded format="Date">01/04/1976</founded>
 		<value format="Money">$961.3 billion </value>
 		<people>
-			<employees>132,000</employees>
+			<employees>132000</employees>
 			<key_people>
 				<CEO sex="male">
 					<name>Tim Cook</name>
@@ -60,7 +60,7 @@
 		<founded format="Date">04/04/1975</founded>
 		<value format="Money">$946.5 billion </value>
 		<people>
-			<employees>144,106</employees>
+			<employees>144106</employees>
 			<key_people>	
 				<CEO sex="male">
 					<name>Satya Nadella</name>
@@ -88,7 +88,7 @@
 		<founded format="Date">05/07/1994</founded>
 		<value format="Money">$946.5 billion </value>
 		<people>
-			<employees>647,500</employees>
+			<employees>647500</employees>
 			<key_people>
 				<CEO sex="male">
 					<name>Jeff Bezos</name>
@@ -114,7 +114,7 @@
 		<founded format="Date">02/10/2015</founded>
 		<value format="Money">$863.2 billion </value>
 		<people>
-			<employees>103,549</employees>
+			<employees>103549</employees>
 			<key_people>
 				<CEO sex="male">
 					<name>Larry Page </name>
@@ -140,9 +140,9 @@
 		
 		<name>Berkshire Hathaway</name>
 		<founded format="Date">1839</founded>
-		<value format="Money">$516.4 billion </value>
+		<value format="Money">$516.4 billion</value>
 		<people>
-			<employees>389,373</employees>
+			<employees>389373</employees>
 			<key_people>
 				<CEO sex="male">
 					<name>Larry Page</name>
@@ -169,7 +169,7 @@
 		<founded format="Date">04/02/2004</founded>
 		<value format="Money">$512 billion </value>
 		<people>
-			<employees>39,651</employees>
+			<employees>39651</employees>
 			<key_people>
 				<CEO sex="male">
 					<name>Mark Zuckerberg</name>
@@ -198,7 +198,7 @@
 		<founded format="Date">04/04/1999</founded>
 		<value format="Money">$480.8 billion </value>
 		<people>
-			<employees>101,958</employees>
+			<employees>101958</employees>
 			<key_people>
 				<CEO sex="male">
 					<name>Daniel Zhang</name>
@@ -224,7 +224,7 @@
 		<founded format="Date">11/11/1998</founded>
 		<value format="Money">$472.1 billion </value>
 		<people>
-			<employees>54,309</employees>
+			<employees>54309</employees>
 			<key_people>
 				<CEO sex="male">
 					<name>Ma Huateng</name>
@@ -251,7 +251,7 @@
 		<founded format="Date">01/12/2000</founded>
 		<value format="Money">$368.5 billion </value>
 		<people>
-			<employees>254,983</employees>
+			<employees>254983</employees>
 			<key_people>
 				<CEO sex="male">
 					<name>Jamie Dimon</name>
@@ -278,7 +278,7 @@
 		<founded format="Date">1886</founded>
 		<value format="Money">$366.2 billion </value>
 		<people>
-			<employees>134,000</employees>
+			<employees>134000</employees>
 			<key_people>
 				<CEO sex="male">
 					<name>Alex Gorsky</name>
@@ -306,7 +306,7 @@
 		<founded format="Date">15/09/1958</founded>
 		<value format="Money">$351.9 billion </value>
 		<people>
-			<employees>17,000</employees>
+			<employees>17000</employees>
 			<key_people>
 				<CEO sex="male">
 					<name>Alfred F. Kelly </name>
@@ -331,7 +331,7 @@
 		<founded format="Date">30/11/1999</founded>
 		<value format="Money">$343.4 billion </value>
 		<people>
-			<employees>71,000</employees>
+			<employees>71000</employees>
 			<key_people>
 				<CEO sex="male">
 					<name>Darren Woods</name>
@@ -353,7 +353,7 @@
 		<founded format="Date">01/01/1984</founded>
 		<value format="Money">$305.1 billion </value>
 		<people>
-			<employees>453,048</employees>
+			<employees>453048</employees>
 			<key_people>
 				<CEO sex="male">
 					<name>Yi Huiman</name>
@@ -375,7 +375,7 @@
 		<founded format="Date">13/06/1945</founded>
 		<value format="Money">$296.1 billion </value>
 		<people>
-			<employees>2,200,000</employees>
+			<employees>2200000</employees>
 			<key_people>
 				<CEO sex="male">
 					<name>Doug McMillon</name>
@@ -400,7 +400,7 @@
 		<founded format="Date">18/09/1998</founded>
 		<value format="Money">$287.3 billion </value>
 		<people>
-			<employees>205,000</employees>
+			<employees>205000</employees>
 			<key_people>
 				<CEO sex="male">
 					<name>Brian Moynihan</name>
@@ -423,7 +423,7 @@
 		<founded format="Date">1886</founded>
 		<value format="Money">$281.3 billion </value>
 		<people>
-			<employees>308,000</employees>
+			<employees>308000</employees>
 			<key_people>
 				<CEO sex="male">
 					<name>Ulf Mark Schneider</name>
@@ -448,7 +448,7 @@
 		<founded format="Date">13/01/1969</founded>
 		<value format="Money">$272.4 billion </value>
 		<people>
-			<employees>320,671</employees>
+			<employees>320671</employees>
 			<key_people>
 				<CEO sex="male">
 					<name>Kwon Oh-hyun</name>
@@ -471,7 +471,7 @@
 		<founded format="Date">31/10/1837</founded>
 		<value format="Money">$265.3 billion </value>
 		<people>
-			<employees>97,000</employees>
+			<employees>97000</employees>
 			<key_people>
 				<CEO sex="male">
 					<name>David S. Taylor</name>
@@ -497,7 +497,7 @@
 		<founded format="Date">02/04/1907</founded>
 		<value format="Money">$264.9 billion </value>
 		<people>
-			<employees>82,000</employees>
+			<employees>82000</employees>
 			<key_people>
 				<CEO sex="male">
 					<name>Ben van Beurden</name>
@@ -523,7 +523,7 @@
 		<founded format="Date">18/07/1968</founded>
 		<value format="Money">$263.1 billion </value>
 		<people>
-			<employees>110,200</employees>
+			<employees>110200</employees>
 			<key_people>
 				<CEO sex="male">
 					<name>Bob Swan</name>
@@ -550,7 +550,7 @@
 		<founded format="Date">10/12/1984</founded>
 		<value format="Money">$248.3 billion </value>
 		<people>
-			<employees>74,200</employees>
+			<employees>74200</employees>
 			<key_people>
 				<CEO sex="male">
 					<name>Charles H. Robbins</name>
@@ -578,7 +578,7 @@
 		<founded format="Date">1966</founded>
 		<value format="Money">$247.1 billion </value>
 		<people>
-			<employees>13,400</employees>
+			<employees>13400</employees>
 			<key_people>
 				<CEO sex="male">
 					<name>Ajaypal Singh Banga</name>
@@ -600,7 +600,7 @@
 		<founded format="Date">07/10/1983</founded>
 		<value format="Money">$239.7 billion </value>
 		<people>
-			<employees>139,400</employees>
+			<employees>139400</employees>
 			<key_people>
 				<CEO sex="male">
 					<name>Lowell McAdam</name>
@@ -622,7 +622,7 @@
 		<founded format="Date">16/10/1923</founded>
 		<value format="Money">$238.1 billion </value>
 		<people>
-			<employees>201,000</employees>
+			<employees>201000</employees>
 			<key_people>
 				<CEO sex="male">
 					<name>Robert Iger</name>
@@ -648,7 +648,7 @@
 		<founded format="Date">05/10/1983</founded>
 		<value format="Money">$233.3 billion </value>
 		<people>
-			<employees>273,210</employees>
+			<employees>273210</employees>
 			<key_people>
 				<CEO sex="male">
 					<name>Randall Stephenson</name>
@@ -671,7 +671,7 @@
 		<founded format="Date">05/10/1983</founded>
 		<value format="Money">$228.3 billion </value>
 		<people>
-			<employees>51,900</employees>
+			<employees>51900</employees>
 			<key_people>
 				<CEO sex="male">
 					<name>John Watson</name>
@@ -693,7 +693,7 @@
 		<founded format="Date">1978</founded>
 		<value format="Money">$226.8 billion </value>
 		<people>
-			<employees>400,000</employees>
+			<employees>400000</employees>
 			<key_people>
 				<CEO sex="male">
 					<name>Craig Menear</name>
@@ -721,7 +721,7 @@
 		<founded format="Date">1954</founded>
 		<value format="Money">$225.0 billion </value>
 		<people>
-			<employees>345,971</employees>
+			<employees>345971</employees>
 			<key_people>
 				<CEO sex="male">
 					<name>Wang Hongzhang</name>
@@ -745,7 +745,7 @@
 		<founded format="Date">25/01/1964</founded>
 		<value format="Money">$224.3 billion </value>
 		<people>
-			<employees>73,100</employees>
+			<employees>73100</employees>
 			<key_people>
 				<CEO sex="male">
 					<name>Mark Parker</name>
@@ -772,7 +772,7 @@
 		<founded format="Date">1987</founded>
 		<value format="Money">$222.4 billion </value>
 		<people>
-			<employees>48,000</employees>
+			<employees>48000</employees>
 			<key_people>
 				<CEO sex="male">
 					<name>Morris Chang</name>
