@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <?xml-stylesheet type="text/css" href="style.css"?>
 
-<companies xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-		   xsi:schemaLocation="companies main.xsd"
-		   xmlns="companies">
+<companies>
 
 	 <header>
         <title>The World's Most Valuable Brands</title>
@@ -86,7 +84,7 @@
 		
 		<name>Amazon</name>
 		<founded format="Date">05/07/1994</founded>
-		<value format="Money">$946.5 billion </value>
+		<value format="Money">$916.1 billion </value>
 		<people>
 			<employees>647500</employees>
 			<key_people>
