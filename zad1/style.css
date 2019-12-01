@@ -53,10 +53,10 @@ company {
 	overflow: auto;
 }
 
-company:hover[industry = "IT"] {
+company:hover{industry} {
 	background-image: linear-gradient(rgba(212,199,80,10%), rgba(34,87,139,10%));
 }
-
+/*
 company:hover[industry = "Conglomerate"] {
 	background-image: linear-gradient(rgba(243,12,34,10%), rgba(32,21,115,10%));
 } 
@@ -100,7 +100,7 @@ company:hover[industry = "Entertainment"] {
 company:hover[industry = "Semiconductors"] {
 	background-image: linear-gradient(rgba(135,128,68,10%), rgba(132,153,43,10%));
 }
-
+*/
 company > name {
 	display: block;
 	font-size: 25px;

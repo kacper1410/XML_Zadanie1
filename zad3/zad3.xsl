@@ -21,7 +21,7 @@
             <xsl:for-each select="companies/company">
                 <xsl:variable name="industry" select="@industry"/>
 
-                <xsl:sort select="@value" order="descending" data-type="text" lang="en"/>
+                <xsl:sort select="value" order="descending" data-type="text" lang="en"/>
 
                 <xsl:element name="company">
                     <xsl:attribute name="company_ID">
@@ -66,6 +66,8 @@
                 <xsl:element name="industries_number">
                     <xsl:value-of select="count(//industry)"/>
                 </xsl:element>
+
+
                 <xsl:element name="companies_per_industry">
                         <IT>
                             <xsl:value-of select="count(/companies/company[@industry='IT'])"/>

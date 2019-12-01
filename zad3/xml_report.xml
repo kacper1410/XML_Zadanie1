@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="windows-1250"?><report>
+<?xml version="1.0" encoding="UTF-8"?><report>
     <header>
         <title>The World's Most Valuable Brands Report</title>
-        <author>Kacper Świercz 224443</author>
+        <author>Kacper Ĺšwiercz 224443</author>
         <author>Patryk Kolanek 224333</author>
     </header>
     <company company_ID="Co1">
@@ -227,7 +227,7 @@
         <employees>308000</employees>
         <key_people>
             <person function="CEO">Ulf Mark Schneider</person>
-            <person function="Founder">Henri Nestlé</person>
+            <person function="Founder">Henri NestlĂ©</person>
             <person function="Chairman">Paul Bulcke</person>
         </key_people>
     </company>
