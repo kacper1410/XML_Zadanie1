@@ -16,27 +16,10 @@
             </head>
             <body>
 
-                <table>
-                    <thead>
-                        <tr>
-                            <th scope="col">Number of companies</th>
-                            <th scope="col">Number of industries</th>
-                            <th scope="col">Average number of employees</th>
-                            <th scope="col">Average number of key people</th>
-                        </tr>
-                    </thead>
-                    <tbody>
-                        <tr style="text-align:center;">
-                            <td><xsl:value-of select="report/stats/companies_number"/></td>
-                            <td><xsl:value-of select="report/stats/industries_number"/></td>
-                            <td><xsl:value-of select="report/stats/average_employees"/></td>
-                            <td><xsl:value-of select="report/stats/average_key_people"/></td>
-                        </tr>
-                    </tbody>
-                </table>
 
-                <table>
-                    <caption>List of companies</caption>
+
+                <table border="1" style="width: 100%;">
+                    <caption style="font-size: 20px; font-weight: bold;">List of companies</caption>
                     <thead>
                         <tr>
                             <th scope="col">Company</th>
@@ -61,7 +44,7 @@
                                         <xsl:value-of select="@function"/>
                                         <xsl:text> - </xsl:text>
                                         <xsl:value-of select="."/>
-                                        <br></br>
+                                        <br/>
                                     </xsl:for-each>
                                 </td>
                                 <td><xsl:value-of select="employees"/></td>
@@ -70,8 +53,10 @@
                     </tbody>
                 </table>
 
-                <table style="width: 100%;">
-                    <caption>Number of companies per industry</caption>
+                <br></br>
+
+                <table border="1" style="width: 100%;">
+                    <caption style="font-size: 20px; font-weight: bold;">Number of companies per industry</caption>
                     <thead>
                         <tr>
                             <xsl:for-each select="report/stats/companies_per_industry/*">
@@ -90,8 +75,10 @@
                     </tbody>
                 </table>
 
-                <table style="width: 100%;">
-                    <caption>Number of companies per country</caption>
+                <br></br>
+
+                <table border="1" style="width: 100%;">
+                    <caption style="font-size: 20px; font-weight: bold;">Number of companies per country</caption>
                     <thead>
                         <tr>
                             <xsl:for-each select="report/stats/companies_per_country/*">
@@ -110,6 +97,26 @@
                     </tbody>
                 </table>
 
+                <br></br>
+
+                <table border="1" style="width: 100%;">
+                    <thead>
+                        <tr>
+                            <th scope="col" style="width: 25%;">Number of companies</th>
+                            <th scope="col" style="width: 25%;">Number of industries</th>
+                            <th scope="col" style="width: 25%;">Average number of employees</th>
+                            <th scope="col" style="width: 25%;">Average number of key people</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr style="text-align:center;">
+                            <td><xsl:value-of select="report/stats/companies_number"/></td>
+                            <td><xsl:value-of select="report/stats/industries_number"/></td>
+                            <td><xsl:value-of select="report/stats/average_employees"/></td>
+                            <td><xsl:value-of select="report/stats/average_key_people"/></td>
+                        </tr>
+                    </tbody>
+                </table>
             </body>
         </html>
     </xsl:template>
