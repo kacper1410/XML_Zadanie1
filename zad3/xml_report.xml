@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="windows-1250"?><report>
+    <header>
+        <title>The World's Most Valuable Brands Report</title>
+        <author>Kacper Świercz 224443</author>
+        <author>Patryk Kolanek 224333</author>
+    </header>
+    <company company_ID="Co1">
+        <name>Apple</name>
+        <country>US</country>
+        <value>$961.3 billion </value>
+        <industry>IT</industry>
+        <founded>01/04/1976</founded>
+        <employees>132000</employees>
+        <key_people>
+            <person function="CEO">Tim Cook</person>
+            <person function="Founder">Steve Jobs</person>
+            <person function="Founder">Steve Wozniak</person>
+            <person function="Founder">Ronald Wayne</person>
+            <person function="Chairman">Arthur D. Levinson</person>
+            <person function="COO">Jeff Williams</person>
+        </key_people>
+    </company>
+    <company company_ID="Co2">
+        <name>Microsoft</name>
+        <country>US</country>
+        <value>$946.5 billion </value>
+        <industry>IT</industry>
+        <founded>04/04/1975</founded>
+        <employees>144106</employees>
+        <key_people>
+            <person function="CEO">Satya Nadella</person>
+            <person function="Founder">Bill Gates</person>
+            <person function="Founder">Paul Allen</person>
+            <person function="CMO">Chris Capossela</person>
+            <person function="CFO">Amy Hood</person>
+            <person function="CDO">Kurt DelBene</person>
+        </key_people>
+    </company>
+    <company company_ID="Co3">
+        <name>Amazon</name>
+        <country>US</country>
+        <value>$916.1 billion </value>
+        <industry>IT</industry>
+        <founded>05/07/1994</founded>
+        <employees>647500</employees>
+        <key_people>
+            <person function="CEO">Jeff Bezos</person>
+            <person function="Founder">Jeff Bezos</person>
+            <person function="CTO">Werner Vogels</person>
+        </key_people>
+    </company>
+    <company company_ID="Co4">
+        <name>Alphabet</name>
+        <country>US</country>
+        <value>$863.2 billion </value>
+        <industry>Conglomerate</industry>
+        <founded>02/10/2015</founded>
+        <employees>103549</employees>
+        <key_people>
+            <person function="CEO">Larry Page </person>
+            <person function="Founder">Larry Page</person>
+            <person function="Founder">Sergey Brin</person>
+            <person function="President">Sergey Brin</person>
+            <person function="Chairman">David Drummond</person>
+            <person function="CFO">Ruth Porat</person>
+        </key_people>
+    </company>
+    <company company_ID="Co5">
+        <name>Berkshire Hathaway</name>
+        <country>US</country>
+        <value>$516.4 billion</value>
+        <industry>Conglomerate</industry>
+        <founded>1839</founded>
+        <employees>389373</employees>
+        <key_people>
+            <person function="CEO">Larry Page</person>
+            <person function="Founder">Oliver Chace</person>
+            <person function="Founder">Warren Buffett</person>
+            <person function="Vice_chairman">Charles T. Munger</person>
+            <person function="Vice_chairman">Ajit Jain</person>
+        </key_people>
+    </company>
+    <company company_ID="Co6">
+        <name>Facebook</name>
+        <country>US</country>
+        <value>$512 billion </value>
+        <industry>Social media</industry>
+        <founded>04/02/2004</founded>
+        <employees>39651</employees>
+        <key_people>
+            <person function="CEO">Mark Zuckerberg</person>
+            <person function="Founder">Mark Zuckerberg</person>
+            <person function="Founder">Eduardo Saverin</person>
+            <person function="Founder">Andrew McCollum</person>
+            <person function="COO">Sheryl Sandberg</person>
+            <person function="CFO">David Wehner</person>
+            <person function="CTO">Mike Schroepfer</person>
+        </key_people>
+    </company>
+    <company company_ID="Co7">
+        <name>Alibaba</name>
+        <country>China</country>
+        <value>$480.8 billion </value>
+        <industry>Conglomerate</industry>
+        <founded>04/04/1999</founded>
+        <employees>101958</employees>
+        <key_people>
+            <person function="CEO">Daniel Zhang</person>
+            <person function="Founder">Jack Ma</person>
+            <person function="Vice_chairman">Joseph Tsai</person>
+            <person function="President">J. Michael Evans</person>
+        </key_people>
+    </company>
+    <company company_ID="Co8">
+        <name>Tencent Holdings</name>
+        <country>China</country>
+        <value>$472.1 billion </value>
+        <industry>Conglomerate</industry>
+        <founded>11/11/1998</founded>
+        <employees>54309</employees>
+        <key_people>
+            <person function="CEO">Ma Huateng</person>
+            <person function="Founder">Ma Huateng</person>
+            <person function="Founder">Zhang Zhidong</person>
+            <person function="Founder">Xu Chenye</person>
+            <person function="President">Martin Lau</person>
+        </key_people>
+    </company>
+    <company company_ID="Co9">
+        <name>JPMorgan Chase</name>
+        <country>US</country>
+        <value>$368.5 billion </value>
+        <industry>Financial</industry>
+        <founded>01/12/2000</founded>
+        <employees>254983</employees>
+        <key_people>
+            <person function="CEO">Jamie Dimon</person>
+            <person function="Founder">John Pierpont Morgan</person>
+            <person function="CFO">Jennifer Piepszak</person>
+            <person function="COO">Daniel E. Pinto</person>
+        </key_people>
+    </company>
+    <company company_ID="Co10">
+        <name>Johnson &amp; Johnson</name>
+        <country>US</country>
+        <value>$366.2 billion </value>
+        <industry>Medical</industry>
+        <founded>1886</founded>
+        <employees>134000</employees>
+        <key_people>
+            <person function="CEO">Alex Gorsky</person>
+            <person function="Founder">Robert Wood Johnson I</person>
+            <person function="Founder">James Wood Johnson</person>
+            <person function="Founder">Edward Mead Johnson</person>
+            <person function="Chairman">William C. Weldon </person>
+        </key_people>
+    </company>
+    <company company_ID="Co11">
+        <name>Visa</name>
+        <country>US</country>
+        <value>$351.9 billion </value>
+        <industry>Financial</industry>
+        <founded>15/09/1958</founded>
+        <employees>17000</employees>
+        <key_people>
+            <person function="CEO">Alfred F. Kelly </person>
+            <person function="Founder">Dee Hock</person>
+            <person function="President">Chris Clark </person>
+        </key_people>
+    </company>
+    <company company_ID="Co12">
+        <name>ExxonMobil</name>
+        <country>US</country>
+        <value>$343.4 billion </value>
+        <industry>Oil and gas</industry>
+        <founded>30/11/1999</founded>
+        <employees>71000</employees>
+        <key_people>
+            <person function="CEO">Darren Woods</person>
+            <person function="CFO">Andrew P. Swiger</person>
+        </key_people>
+    </company>
+    <company company_ID="Co13">
+        <name>ICBC</name>
+        <country>China</country>
+        <value>$305.1 billion </value>
+        <industry>Financial</industry>
+        <founded>01/01/1984</founded>
+        <employees>453048</employees>
+        <key_people>
+            <person function="CEO">Yi Huiman</person>
+            <person function="President">Luo Xi</person>
+        </key_people>
+    </company>
+    <company company_ID="Co14">
+        <name>Walmart</name>
+        <country>US</country>
+        <value>$296.1 billion </value>
+        <industry>Retail</industry>
+        <founded>13/06/1945</founded>
+        <employees>2200000</employees>
+        <key_people>
+            <person function="CEO">Doug McMillon</person>
+            <person function="Founder">Sam Walton</person>
+            <person function="Chairman">Greg Penner</person>
+        </key_people>
+    </company>
+    <company company_ID="Co15">
+        <name>Bank of America</name>
+        <country>US</country>
+        <value>$287.3 billion </value>
+        <industry>Financial</industry>
+        <founded>18/09/1998</founded>
+        <employees>205000</employees>
+        <key_people>
+            <person function="CEO">Brian Moynihan</person>
+            <person function="Vice_chairman">Anne Finucane</person>
+            <person function="Vice_chairman">Bruce Thompson</person>
+        </key_people>
+    </company>
+    <company company_ID="Co16">
+        <name>Nestle</name>
+        <country>Switzerland</country>
+        <value>$281.3 billion </value>
+        <industry>Food</industry>
+        <founded>1886</founded>
+        <employees>308000</employees>
+        <key_people>
+            <person function="CEO">Ulf Mark Schneider</person>
+            <person function="Founder">Henri Nestlé</person>
+            <person function="Chairman">Paul Bulcke</person>
+        </key_people>
+    </company>
+    <company company_ID="Co17">
+        <name>Samsung Electronics</name>
+        <country>South_Korea</country>
+        <value>$272.4 billion </value>
+        <industry>IT</industry>
+        <founded>13/01/1969</founded>
+        <employees>320671</employees>
+        <key_people>
+            <person function="CEO">Kwon Oh-hyun</person>
+            <person function="Chairman">Lee Kun-hee</person>
+            <person function="President">Young Sohn</person>
+        </key_people>
+    </company>
+    <company company_ID="Co18">
+        <name>Procter &amp; Gamble</name>
+        <country>US</country>
+        <value>$265.3 billion </value>
+        <industry>Consumer goods</industry>
+        <founded>31/10/1837</founded>
+        <employees>97000</employees>
+        <key_people>
+            <person function="CEO">David S. Taylor</person>
+            <person function="Founder">William Procter</person>
+            <person function="Founder">James Gamble</person>
+            <person function="CFO">Jon Moeller</person>
+        </key_people>
+    </company>
+    <company company_ID="Co19">
+        <name>Royal Dutch Shell</name>
+        <country>Netherlands</country>
+        <value>$264.9 billion </value>
+        <industry>Oil and gas</industry>
+        <founded>02/04/1907</founded>
+        <employees>82000</employees>
+        <key_people>
+            <person function="CEO">Ben van Beurden</person>
+            <person function="Founder">Samuel Samuel</person>
+            <person function="Founder">Marcus Samuel</person>
+            <person function="Chairman">Charles O. Holliday</person>
+        </key_people>
+    </company>
+    <company company_ID="Co20">
+        <name>Intel</name>
+        <country>US</country>
+        <value>$263.1 billion </value>
+        <industry>IT</industry>
+        <founded>18/07/1968</founded>
+        <employees>110200</employees>
+        <key_people>
+            <person function="CEO">Bob Swan</person>
+            <person function="Founder">Gordon Moore</person>
+            <person function="Founder">Robert Noyce</person>
+            <person function="Chairman">Gordon Moore</person>
+            <person function="Chairman">Andy Bryant</person>
+        </key_people>
+    </company>
+    <company company_ID="Co21">
+        <name>Cisco</name>
+        <country>US</country>
+        <value>$248.3 billion </value>
+        <industry>IT</industry>
+        <founded>10/12/1984</founded>
+        <employees>74200</employees>
+        <key_people>
+            <person function="CEO">Charles H. Robbins</person>
+            <person function="Founder">Leonard Bosack</person>
+            <person function="Founder">Sandy Lerner</person>
+            <person function="CLO">Mark Chandler</person>
+            <person function="CMO">Gerri Elliott</person>
+        </key_people>
+    </company>
+    <company company_ID="Co22">
+        <name>Mastercard</name>
+        <country>US</country>
+        <value>$247.1 billion </value>
+        <industry>Financial</industry>
+        <founded>1966</founded>
+        <employees>13400</employees>
+        <key_people>
+            <person function="CEO">Ajaypal Singh Banga</person>
+            <person function="Chairman">Richard Haythornthwaite</person>
+        </key_people>
+    </company>
+    <company company_ID="Co23">
+        <name>Verizon Communications</name>
+        <country>US</country>
+        <value>$239.7 billion </value>
+        <industry>Telecommunications</industry>
+        <founded>07/10/1983</founded>
+        <employees>139400</employees>
+        <key_people>
+            <person function="CEO">Lowell McAdam</person>
+            <person function="CFO">Matthew D. Ellis</person>
+        </key_people>
+    </company>
+    <company company_ID="Co24">
+        <name>Disney</name>
+        <country>US</country>
+        <value>$238.1 billion </value>
+        <industry>Entertainment</industry>
+        <founded>16/10/1923</founded>
+        <employees>201000</employees>
+        <key_people>
+            <person function="CEO">Robert Iger</person>
+            <person function="Founder">Walt Disney</person>
+            <person function="Founder">Roy O. Disney</person>
+            <person function="CFO">Christine McCarthy</person>
+        </key_people>
+    </company>
+    <company company_ID="Co25">
+        <name>AT&amp;T</name>
+        <country>US</country>
+        <value>$233.3 billion </value>
+        <industry>Telecommunications</industry>
+        <founded>05/10/1983</founded>
+        <employees>273210</employees>
+        <key_people>
+            <person function="CEO">Randall Stephenson</person>
+            <person function="President">John Stankey</person>
+            <person function="CFO">John J. Stephens</person>
+        </key_people>
+    </company>
+    <company company_ID="Co26">
+        <name>Chevron</name>
+        <country>US</country>
+        <value>$228.3 billion </value>
+        <industry>Oil and gas</industry>
+        <founded>05/10/1983</founded>
+        <employees>51900</employees>
+        <key_people>
+            <person function="CEO">John Watson</person>
+            <person function="Chairman">Michael Wirth</person>
+        </key_people>
+    </company>
+    <company company_ID="Co27">
+        <name>Home Depot</name>
+        <country>US</country>
+        <value>$226.8 billion </value>
+        <industry>Retail</industry>
+        <founded>1978</founded>
+        <employees>400000</employees>
+        <key_people>
+            <person function="CEO">Craig Menear</person>
+            <person function="Founder">Bernard Marcus</person>
+            <person function="Founder">Arthur Blank</person>
+            <person function="Founder">Ron Brill</person>
+            <person function="CFO">Richard McPhail</person>
+        </key_people>
+    </company>
+    <company company_ID="Co28">
+        <name>China Construction Bank</name>
+        <country>China</country>
+        <value>$225.0 billion </value>
+        <industry>Financial</industry>
+        <founded>1954</founded>
+        <employees>345971</employees>
+        <key_people>
+            <person function="CEO">Wang Hongzhang</person>
+            <person function="Vice_chairman">Xin Shusen </person>
+            <person function="President">Zhang Jianguo </person>
+        </key_people>
+    </company>
+    <company company_ID="Co29">
+        <name>Nike</name>
+        <country>US</country>
+        <value>$224.3 billion </value>
+        <industry>Consumer goods</industry>
+        <founded>25/01/1964</founded>
+        <employees>73100</employees>
+        <key_people>
+            <person function="CEO">Mark Parker</person>
+            <person function="Founder">Bill Bowerman</person>
+            <person function="Founder">Phil Knight</person>
+            <person function="Chairman">Phil Knight</person>
+        </key_people>
+    </company>
+    <company company_ID="Co30">
+        <name>Taiwan Semiconductor</name>
+        <country>Taiwan</country>
+        <value>$222.4 billion </value>
+        <industry>Semiconductors</industry>
+        <founded>1987</founded>
+        <employees>48000</employees>
+        <key_people>
+            <person function="CEO">Morris Chang</person>
+            <person function="Founder">Morris Chang</person>
+            <person function="Chairman">Mark Liu</person>
+        </key_people>
+    </company>
+    <stats>
+        <companies_number>30</companies_number>
+        <industries_number>12</industries_number>
+        <companies_per_industry>
+            <IT>6</IT>
+            <Conglomerate>4</Conglomerate>
+            <Social_media>1</Social_media>
+            <Financial>6</Financial>
+            <Medical>1</Medical>
+            <Oil_and_gas>3</Oil_and_gas>
+            <Retail>2</Retail>
+            <Food>1</Food>
+            <Consumer_goods>2</Consumer_goods>
+            <Telecommunications>2</Telecommunications>
+            <Entertainment>1</Entertainment>
+            <Semiconductors>1</Semiconductors>
+        </companies_per_industry>
+        <companies_per_country>
+            <US>22</US>
+            <China>4</China>
+            <Switzerland>1</Switzerland>
+            <South_Korea>1</South_Korea>
+            <South_Korea>1</South_Korea>
+            <Netherlands>1</Netherlands>
+            <Taiwan>1</Taiwan>
+            <Poland>0</Poland>
+        </companies_per_country>
+        <average_employees>249517.63333333333</average_employees>
+        <average_key_people>3.8666666666666667</average_key_people>
+    </stats>
+</report>
