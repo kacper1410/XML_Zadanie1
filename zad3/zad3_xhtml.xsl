@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--<!DOCTYPE PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">-->
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
                 version="1.0">
 
-    <xsl:output method="html" encoding="utf-8" indent="yes"/>
+    <xsl:output method="html" encoding="utf-8" indent="yes" doctype-public="-//W3C//DTD XHTML 1.0 Strict//EN"
+                doctype-system="http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"/>
 
 
     <xsl:template match="/">
@@ -12,13 +12,16 @@
                 <title>
                     <xsl:value-of select="report/header/title"/>
                 </title>
-<!--                <meta http-equiv="Content-Type" content="application/xhtml+xml;charset=UTF-8" />-->
+                <style>
+                    table, th, td {
+                    border: 1px solid black;
+                    }
+                </style>
             </head>
             <body>
 
 
-
-                <table border="1" style="width: 100%;">
+                <table style="width: 100%;">
                     <caption style="font-size: 20px; font-weight: bold;">List of companies</caption>
                     <thead>
                         <tr>
@@ -55,7 +58,7 @@
 
                 <br></br>
 
-                <table border="1" style="width: 100%;">
+                <table style="width: 100%;">
                     <caption style="font-size: 20px; font-weight: bold;">Number of companies per industry</caption>
                     <thead>
                         <tr>
@@ -69,7 +72,7 @@
                         <tr>
                             <xsl:for-each select="report/stats/companies_per_industry/*">
                                 <xsl:sort select="." order="descending" data-type="number" lang="en"/>
-                                <td scope="col" style="text-align: center;"><xsl:value-of select="."/></td>
+                                <td style="text-align: center;"><xsl:value-of select="."/></td>
                             </xsl:for-each>
                         </tr>
                     </tbody>
@@ -77,7 +80,7 @@
 
                 <br></br>
 
-                <table border="1" style="width: 100%;">
+                <table style="width: 100%;">
                     <caption style="font-size: 20px; font-weight: bold;">Number of companies per country</caption>
                     <thead>
                         <tr>
@@ -91,7 +94,7 @@
                         <tr>
                             <xsl:for-each select="report/stats/companies_per_country/*">
                                 <xsl:sort select="." order="descending" data-type="number" lang="en"/>
-                                <td scope="col" style="text-align: center;"><xsl:value-of select="." /></td>
+                                <td style="text-align: center;"><xsl:value-of select="." /></td>
                             </xsl:for-each>
                         </tr>
                     </tbody>
@@ -99,7 +102,7 @@
 
                 <br></br>
 
-                <table border="1" style="width: 100%;">
+                <table style="width: 100%;">
                     <thead>
                         <tr>
                             <th scope="col" style="width: 25%;">Number of companies</th>
