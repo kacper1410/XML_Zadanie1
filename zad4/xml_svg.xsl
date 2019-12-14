@@ -4,7 +4,7 @@
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0" xmlns="http://www.w3.org/2000/svg">
 
     <xsl:template match="/">
-        <svg width="100%" height="10000" xmlns="http://www.w3.org/2000/svg">
+        <svg width="100%" height="7000" xmlns="http://www.w3.org/2000/svg">
             <script type="text/ecmascript"> <![CDATA[
 		                function changeFill(evt) {
 		                var rect = evt.target;
@@ -13,6 +13,17 @@
 		                    rect.setAttribute("fill", "red");
 		                else if(currentFill=="red")
 		                    rect.setAttribute("fill", "black");
+		                }
+	                ]]>
+            </script>
+            <script type="text/ecmascript"> <![CDATA[
+		                function visible(evt) {
+		                var text = evt.target;
+		                var peopleOpacity = text.getAttribute("opacity");
+		                if (peopleOpacity=="0")
+		                    text.setAttribute("opacity", "1");
+		                else if(peopleOpacity=="1")
+		                    text.setAttribute("opacity", "0");
 		                }
 	                ]]>
             </script>
@@ -63,24 +74,48 @@
             </xsl:for-each>
 
             <!-- TODO companies -->
-            <xsl:for-each select="report/company/*" >
-                <xsl:variable name="position" select="position()*50 + 600" />
-                <text x="15%" y="{$position}" font-size="20" >
-                    <xsl:value-of select="." />
+            <xsl:for-each select="report/company" >
+                <xsl:variable name="position" select="position()*200 + 500" />
+                <xsl:variable name="name" select="name" />
+                <xsl:variable name="country" select="country" />
+                <xsl:variable name="value" select="value" />
+                <xsl:variable name="founded" select="founded" />
+                <xsl:variable name="employees" select="employees" />
+
+                <text x="10%" y="{$position}" font-size="30" font-weight="bold">
+                    <xsl:value-of select="concat('Name: ', $name)"  />
+                    <animate id="animate" attributeType="XML" attributeName="opacity" fill="freeze" dur="2s" from="0" to="1"  />
                 </text>
+                <text x="10%" y="{$position + 30}" font-size="25" >
+                    <xsl:value-of select="concat('Country: ', $country)"  />
+                    <animate id="animate" attributeType="XML" attributeName="opacity" dur="3s" from="0" to="1"  />
+                </text>
+                <text x="10%" y="{$position + 60}" font-size="25" >
+                    <xsl:value-of select="concat('Value: ', $value)"  />
+                    <animate id="animate" attributeType="XML" attributeName="opacity" dur="3s" from="0" to="1"  />
+                </text>
+                <text x="10%" y="{$position + 90}" font-size="25" >
+                    <xsl:value-of select="concat('Founded: ', $founded)"  />
+                    <animate id="animate" attributeType="XML" attributeName="opacity" dur="3s" from="0" to="1"  />
+                </text>
+                <text x="10%" y="{$position + 120}" font-size="25" >
+                    <xsl:value-of select="concat('Emplyees: ', $employees)"  />
+                    <animate id="animate" attributeType="XML" attributeName="opacity" dur="3s" from="0" to="1"  />
+                </text>
+
+                <text x="40%" y="{$position}" font-weight="bold" font-size="30" >
+                    People:
+                    <animate id="animate" attributeType="XML" attributeName="opacity" dur="3s" from="0" to="1"  />
+                </text>
+
+                <xsl:for-each select="key_people" >
+                    <text x="35%" y="{$position + 40}" font-size="25" onclick="visible(evt)" opacity="0">
+                        <xsl:value-of select="." />
+                    </text>
+                </xsl:for-each>
+
             </xsl:for-each>
 
-<!--            <xsl:variable name="companies_number" select="report/stats/companies_number" />-->
-<!--            <xsl:variable name="industries_number" select="report/stats/industries_number" />-->
-<!--            <xsl:variable name="average_employees" select="report/stats/average_employees" />-->
-<!--            <xsl:variable name="average_key_people" select="report/stats/average_key_people" />-->
-
-<!--            <rect x="{$x}" y="200" height="50" width="{$companies_number*5}" />-->
-<!--            <rect x="{$x}" y="300" height="50" width="{$industries_number*5}" />-->
-<!--            <rect x="{$x}" y="400" height="50" width="{$average_employees div 1000}" />-->
-<!--            <rect x="{$x}" y="500" height="50" width="{$average_key_people*5}" />-->
-
-            
         </svg>
     </xsl:template>
 
