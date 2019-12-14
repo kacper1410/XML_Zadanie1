@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?><svg width="100%" height="10000" xmlns="http://www.w3.org/2000/svg"><script type="text/ecmascript"> 
+		                function changeFill(evt) {
+		                var rect = evt.target;
+		                var currentFill = rect.getAttribute("fill");
+		                if (currentFill=="black")
+		                    rect.setAttribute("fill", "red");
+		                else if(currentFill=="red")
+		                    rect.setAttribute("fill", "black");
+		                }
+	                
+            </script><text x="30%" y="35" fill="black" font-size="40">The World's Most Valuable Brands Report</text><text x="40%" y="90" font-size="30">Kacper Świercz 224443</text><text x="40%" y="130" font-size="30">Patryk Kolanek 224333</text><text x="30" y="185" font-size="20">IT<animate id="animation" attributeType="XML" attributeName="opacity" dur="3s" fill="freeze" from="0" to="1"/></text><rect x="230" y="169" width="120" height="18" fill="black" onclick="changeFill(evt)"><animate id="animation" attributeType="XML" attributeName="width" dur="3s" fill="freeze" from="0" to="120"/></rect><text x="380" y="185" font-size="20">6<animate id="animation" attributeType="XML" attributeName="opacity" dur="3s" fill="freeze" from="0" to="1"/></text><text x="30" y="220" font-size="20">Conglomerate<animate id="animation" attributeType="XML" attributeName="opacity" dur="3s" fill="freeze" from="0" to="1"/></text><rect x="230" y="204" width="80" height="18" fill="black" onclick="changeFill(evt)"><animate id="animation" attributeType="XML" attributeName="width" dur="3s" fill="freeze" from="0" to="80"/></rect><text x="380" y="220" font-size="20">4<animate id="animation" attributeType="XML" attributeName="opacity" dur="3s" fill="freeze" from="0" to="1"/></text><text x="30" y="255" font-size="20">Social_media<animate id="animation" attributeType="XML" attributeName="opacity" dur="3s" fill="freeze" from="0" to="1"/></text><rect x="230" y="239" width="20" height="18" fill="black" onclick="changeFill(evt)"><animate id="animation" attributeType="XML" attributeName="width" dur="3s" fill="freeze" from="0" to="20"/></rect><text x="380" y="255" font-size="20">1<animate id="animation" attributeType="XML" attributeName="opacity" dur="3s" fill="freeze" from="0" to="1"/></text><text x="30" y="290" font-size="20">Financial<animate id="animation" attributeType="XML" attributeName="opacity" dur="3s" fill="freeze" from="0" to="1"/></text><rect x="230" y="274" width="120" height="18" fill="black" onclick="changeFill(evt)"><animate id="animation" attributeType="XML" attributeName="width" dur="3s" fill="freeze" from="0" to="120"/></rect><text x="380" y="290" font-size="20">6<animate id="animation" attributeType="XML" attributeName="opacity" dur="3s" fill="freeze" from="0" to="1"/></text><text x="30" y="325" font-size="20">Medical<animate id="animation" attributeType="XML" attributeName="opacity" dur="3s" fill="freeze" from="0" to="1"/></text><rect x="230" y="309" width="20" height="18" fill="black" onclick="changeFill(evt)"><animate id="animation" attributeType="XML" attributeName="width" dur="3s" fill="freeze" from="0" to="20"/></rect><text x="380" y="325" font-size="20">1<animate id="animation" attributeType="XML" attributeName="opacity" dur="3s" fill="freeze" from="0" to="1"/></text><text x="30" y="360" font-size="20">Oil_and_gas<animate id="animation" attributeType="XML" attributeName="opacity" dur="3s" fill="freeze" from="0" to="1"/></text><rect x="230" y="344" width="60" height="18" fill="black" onclick="changeFill(evt)"><animate id="animation" attributeType="XML" attributeName="width" dur="3s" fill="freeze" from="0" to="60"/></rect><text x="380" y="360" font-size="20">3<animate id="animation" attributeType="XML" attributeName="opacity" dur="3s" fill="freeze" from="0" to="1"/></text><text x="30" y="395" font-size="20">Retail<animate id="animation" attributeType="XML" attributeName="opacity" dur="3s" fill="freeze" from="0" to="1"/></text><rect x="230" y="379" width="40" height="18" fill="black" onclick="changeFill(evt)"><animate id="animation" attributeType="XML" attributeName="width" dur="3s" fill="freeze" from="0" to="40"/></rect><text x="380" y="395" font-size="20">2<animate id="animation" attributeType="XML" attributeName="opacity" dur="3s" fill="freeze" from="0" to="1"/></text><text x="30" y="430" font-size="20">Food<animate id="animation" attributeType="XML" attributeName="opacity" dur="3s" fill="freeze" from="0" to="1"/></text><rect x="230" y="414" width="20" height="18" fill="black" onclick="changeFill(evt)"><animate id="animation" attributeType="XML" attributeName="width" dur="3s" fill="freeze" from="0" to="20"/></rect><text x="380" y="430" font-size="20">1<animate id="animation" attributeType="XML" attributeName="opacity" dur="3s" fill="freeze" from="0" to="1"/></text><text x="30" y="465" font-size="20">Consumer_goods<animate id="animation" attributeType="XML" attributeName="opacity" dur="3s" fill="freeze" from="0" to="1"/></text><rect x="230" y="449" width="40" height="18" fill="black" onclick="changeFill(evt)"><animate id="animation" attributeType="XML" attributeName="width" dur="3s" fill="freeze" from="0" to="40"/></rect><text x="380" y="465" font-size="20">2<animate id="animation" attributeType="XML" attributeName="opacity" dur="3s" fill="freeze" from="0" to="1"/></text><text x="30" y="500" font-size="20">Telecommunications<animate id="animation" attributeType="XML" attributeName="opacity" dur="3s" fill="freeze" from="0" to="1"/></text><rect x="230" y="484" width="40" height="18" fill="black" onclick="changeFill(evt)"><animate id="animation" attributeType="XML" attributeName="width" dur="3s" fill="freeze" from="0" to="40"/></rect><text x="380" y="500" font-size="20">2<animate id="animation" attributeType="XML" attributeName="opacity" dur="3s" fill="freeze" from="0" to="1"/></text><text x="30" y="535" font-size="20">Entertainment<animate id="animation" attributeType="XML" attributeName="opacity" dur="3s" fill="freeze" from="0" to="1"/></text><rect x="230" y="519" width="20" height="18" fill="black" onclick="changeFill(evt)"><animate id="animation" attributeType="XML" attributeName="width" dur="3s" fill="freeze" from="0" to="20"/></rect><text x="380" y="535" font-size="20">1<animate id="animation" attributeType="XML" attributeName="opacity" dur="3s" fill="freeze" from="0" to="1"/></text><text x="30" y="570" font-size="20">Semiconductors<animate id="animation" attributeType="XML" attributeName="opacity" dur="3s" fill="freeze" from="0" to="1"/></text><rect x="230" y="554" width="20" height="18" fill="black" onclick="changeFill(evt)"><animate id="animation" attributeType="XML" attributeName="width" dur="3s" fill="freeze" from="0" to="20"/></rect><text x="380" y="570" font-size="20">1<animate id="animation" attributeType="XML" attributeName="opacity" dur="3s" fill="freeze" from="0" to="1"/></text><text x="630" y="235" font-size="20">US<animate id="animation" attributeType="XML" attributeName="opacity" dur="3s" fill="freeze" from="0" to="1"/></text><rect x="830" y="219" width="440" height="18" fill="black" onclick="changeFill(evt)"><animate id="animation" attributeType="XML" attributeName="width" dur="3s" fill="freeze" from="0" to="440"/></rect><text x="1330" y="235" font-size="20">22<animate id="animation" attributeType="XML" attributeName="opacity" dur="3s" fill="freeze" from="0" to="1"/></text><text x="630" y="270" font-size="20">China<animate id="animation" attributeType="XML" attributeName="opacity" dur="3s" fill="freeze" from="0" to="1"/></text><rect x="830" y="254" width="80" height="18" fill="black" onclick="changeFill(evt)"><animate id="animation" attributeType="XML" attributeName="width" dur="3s" fill="freeze" from="0" to="80"/></rect><text x="1330" y="270" font-size="20">4<animate id="animation" attributeType="XML" attributeName="opacity" dur="3s" fill="freeze" from="0" to="1"/></text><text x="630" y="305" font-size="20">Switzerland<animate id="animation" attributeType="XML" attributeName="opacity" dur="3s" fill="freeze" from="0" to="1"/></text><rect x="830" y="289" width="20" height="18" fill="black" onclick="changeFill(evt)"><animate id="animation" attributeType="XML" attributeName="width" dur="3s" fill="freeze" from="0" to="20"/></rect><text x="1330" y="305" font-size="20">1<animate id="animation" attributeType="XML" attributeName="opacity" dur="3s" fill="freeze" from="0" to="1"/></text><text x="630" y="340" font-size="20">South_Korea<animate id="animation" attributeType="XML" attributeName="opacity" dur="3s" fill="freeze" from="0" to="1"/></text><rect x="830" y="324" width="20" height="18" fill="black" onclick="changeFill(evt)"><animate id="animation" attributeType="XML" attributeName="width" dur="3s" fill="freeze" from="0" to="20"/></rect><text x="1330" y="340" font-size="20">1<animate id="animation" attributeType="XML" attributeName="opacity" dur="3s" fill="freeze" from="0" to="1"/></text><text x="630" y="375" font-size="20">South_Korea<animate id="animation" attributeType="XML" attributeName="opacity" dur="3s" fill="freeze" from="0" to="1"/></text><rect x="830" y="359" width="20" height="18" fill="black" onclick="changeFill(evt)"><animate id="animation" attributeType="XML" attributeName="width" dur="3s" fill="freeze" from="0" to="20"/></rect><text x="1330" y="375" font-size="20">1<animate id="animation" attributeType="XML" attributeName="opacity" dur="3s" fill="freeze" from="0" to="1"/></text><text x="630" y="410" font-size="20">Netherlands<animate id="animation" attributeType="XML" attributeName="opacity" dur="3s" fill="freeze" from="0" to="1"/></text><rect x="830" y="394" width="20" height="18" fill="black" onclick="changeFill(evt)"><animate id="animation" attributeType="XML" attributeName="width" dur="3s" fill="freeze" from="0" to="20"/></rect><text x="1330" y="410" font-size="20">1<animate id="animation" attributeType="XML" attributeName="opacity" dur="3s" fill="freeze" from="0" to="1"/></text><text x="630" y="445" font-size="20">Taiwan<animate id="animation" attributeType="XML" attributeName="opacity" dur="3s" fill="freeze" from="0" to="1"/></text><rect x="830" y="429" width="20" height="18" fill="black" onclick="changeFill(evt)"><animate id="animation" attributeType="XML" attributeName="width" dur="3s" fill="freeze" from="0" to="20"/></rect><text x="1330" y="445" font-size="20">1<animate id="animation" attributeType="XML" attributeName="opacity" dur="3s" fill="freeze" from="0" to="1"/></text><text x="630" y="480" font-size="20">Poland<animate id="animation" attributeType="XML" attributeName="opacity" dur="3s" fill="freeze" from="0" to="1"/></text><rect x="830" y="464" width="0" height="18" fill="black" onclick="changeFill(evt)"><animate id="animation" attributeType="XML" attributeName="width" dur="3s" fill="freeze" from="0" to="0"/></rect><text x="1330" y="480" font-size="20">0<animate id="animation" attributeType="XML" attributeName="opacity" dur="3s" fill="freeze" from="0" to="1"/></text><text x="15%" y="650" font-size="20">Apple</text><text x="15%" y="700" font-size="20">US</text><text x="15%" y="750" font-size="20">$961.3 billion </text><text x="15%" y="800" font-size="20">IT</text><text x="15%" y="850" font-size="20">01/04/1976</text><text x="15%" y="900" font-size="20">132000</text><text x="15%" y="950" font-size="20">
+            Tim Cook
+            Steve Jobs
+            Steve Wozniak
+            Ronald Wayne
+            Arthur D. Levinson
+            Jeff Williams
+        </text><text x="15%" y="1000" font-size="20">Microsoft</text><text x="15%" y="1050" font-size="20">US</text><text x="15%" y="1100" font-size="20">$946.5 billion </text><text x="15%" y="1150" font-size="20">IT</text><text x="15%" y="1200" font-size="20">04/04/1975</text><text x="15%" y="1250" font-size="20">144106</text><text x="15%" y="1300" font-size="20">
+            Satya Nadella
+            Bill Gates
+            Paul Allen
+            Chris Capossela
+            Amy Hood
+            Kurt DelBene
+        </text><text x="15%" y="1350" font-size="20">Amazon</text><text x="15%" y="1400" font-size="20">US</text><text x="15%" y="1450" font-size="20">$916.1 billion </text><text x="15%" y="1500" font-size="20">IT</text><text x="15%" y="1550" font-size="20">05/07/1994</text><text x="15%" y="1600" font-size="20">647500</text><text x="15%" y="1650" font-size="20">
+            Jeff Bezos
+            Jeff Bezos
+            Werner Vogels
+        </text><text x="15%" y="1700" font-size="20">Alphabet</text><text x="15%" y="1750" font-size="20">US</text><text x="15%" y="1800" font-size="20">$863.2 billion </text><text x="15%" y="1850" font-size="20">Conglomerate</text><text x="15%" y="1900" font-size="20">02/10/2015</text><text x="15%" y="1950" font-size="20">103549</text><text x="15%" y="2000" font-size="20">
+            Larry Page 
+            Larry Page
+            Sergey Brin
+            Sergey Brin
+            David Drummond
+            Ruth Porat
+        </text><text x="15%" y="2050" font-size="20">Berkshire Hathaway</text><text x="15%" y="2100" font-size="20">US</text><text x="15%" y="2150" font-size="20">$516.4 billion</text><text x="15%" y="2200" font-size="20">Conglomerate</text><text x="15%" y="2250" font-size="20">1839</text><text x="15%" y="2300" font-size="20">389373</text><text x="15%" y="2350" font-size="20">
+            Larry Page
+            Oliver Chace
+            Warren Buffett
+            Charles T. Munger
+            Ajit Jain
+        </text><text x="15%" y="2400" font-size="20">Facebook</text><text x="15%" y="2450" font-size="20">US</text><text x="15%" y="2500" font-size="20">$512 billion </text><text x="15%" y="2550" font-size="20">Social media</text><text x="15%" y="2600" font-size="20">04/02/2004</text><text x="15%" y="2650" font-size="20">39651</text><text x="15%" y="2700" font-size="20">
+            Mark Zuckerberg
+            Mark Zuckerberg
+            Eduardo Saverin
+            Andrew McCollum
+            Sheryl Sandberg
+            David Wehner
+            Mike Schroepfer
+        </text><text x="15%" y="2750" font-size="20">Alibaba</text><text x="15%" y="2800" font-size="20">China</text><text x="15%" y="2850" font-size="20">$480.8 billion </text><text x="15%" y="2900" font-size="20">Conglomerate</text><text x="15%" y="2950" font-size="20">04/04/1999</text><text x="15%" y="3000" font-size="20">101958</text><text x="15%" y="3050" font-size="20">
+            Daniel Zhang
+            Jack Ma
+            Joseph Tsai
+            J. Michael Evans
+        </text><text x="15%" y="3100" font-size="20">Tencent Holdings</text><text x="15%" y="3150" font-size="20">China</text><text x="15%" y="3200" font-size="20">$472.1 billion </text><text x="15%" y="3250" font-size="20">Conglomerate</text><text x="15%" y="3300" font-size="20">11/11/1998</text><text x="15%" y="3350" font-size="20">54309</text><text x="15%" y="3400" font-size="20">
+            Ma Huateng
+            Ma Huateng
+            Zhang Zhidong
+            Xu Chenye
+            Martin Lau
+        </text><text x="15%" y="3450" font-size="20">JPMorgan Chase</text><text x="15%" y="3500" font-size="20">US</text><text x="15%" y="3550" font-size="20">$368.5 billion </text><text x="15%" y="3600" font-size="20">Financial</text><text x="15%" y="3650" font-size="20">01/12/2000</text><text x="15%" y="3700" font-size="20">254983</text><text x="15%" y="3750" font-size="20">
+            Jamie Dimon
+            John Pierpont Morgan
+            Jennifer Piepszak
+            Daniel E. Pinto
+        </text><text x="15%" y="3800" font-size="20">Johnson &amp; Johnson</text><text x="15%" y="3850" font-size="20">US</text><text x="15%" y="3900" font-size="20">$366.2 billion </text><text x="15%" y="3950" font-size="20">Medical</text><text x="15%" y="4000" font-size="20">1886</text><text x="15%" y="4050" font-size="20">134000</text><text x="15%" y="4100" font-size="20">
+            Alex Gorsky
+            Robert Wood Johnson I
+            James Wood Johnson
+            Edward Mead Johnson
+            William C. Weldon 
+        </text><text x="15%" y="4150" font-size="20">Visa</text><text x="15%" y="4200" font-size="20">US</text><text x="15%" y="4250" font-size="20">$351.9 billion </text><text x="15%" y="4300" font-size="20">Financial</text><text x="15%" y="4350" font-size="20">15/09/1958</text><text x="15%" y="4400" font-size="20">17000</text><text x="15%" y="4450" font-size="20">
+            Alfred F. Kelly 
+            Dee Hock
+            Chris Clark 
+        </text><text x="15%" y="4500" font-size="20">ExxonMobil</text><text x="15%" y="4550" font-size="20">US</text><text x="15%" y="4600" font-size="20">$343.4 billion </text><text x="15%" y="4650" font-size="20">Oil and gas</text><text x="15%" y="4700" font-size="20">30/11/1999</text><text x="15%" y="4750" font-size="20">71000</text><text x="15%" y="4800" font-size="20">
+            Darren Woods
+            Andrew P. Swiger
+        </text><text x="15%" y="4850" font-size="20">ICBC</text><text x="15%" y="4900" font-size="20">China</text><text x="15%" y="4950" font-size="20">$305.1 billion </text><text x="15%" y="5000" font-size="20">Financial</text><text x="15%" y="5050" font-size="20">01/01/1984</text><text x="15%" y="5100" font-size="20">453048</text><text x="15%" y="5150" font-size="20">
+            Yi Huiman
+            Luo Xi
+        </text><text x="15%" y="5200" font-size="20">Walmart</text><text x="15%" y="5250" font-size="20">US</text><text x="15%" y="5300" font-size="20">$296.1 billion </text><text x="15%" y="5350" font-size="20">Retail</text><text x="15%" y="5400" font-size="20">13/06/1945</text><text x="15%" y="5450" font-size="20">2200000</text><text x="15%" y="5500" font-size="20">
+            Doug McMillon
+            Sam Walton
+            Greg Penner
+        </text><text x="15%" y="5550" font-size="20">Bank of America</text><text x="15%" y="5600" font-size="20">US</text><text x="15%" y="5650" font-size="20">$287.3 billion </text><text x="15%" y="5700" font-size="20">Financial</text><text x="15%" y="5750" font-size="20">18/09/1998</text><text x="15%" y="5800" font-size="20">205000</text><text x="15%" y="5850" font-size="20">
+            Brian Moynihan
+            Anne Finucane
+            Bruce Thompson
+        </text><text x="15%" y="5900" font-size="20">Nestle</text><text x="15%" y="5950" font-size="20">Switzerland</text><text x="15%" y="6000" font-size="20">$281.3 billion </text><text x="15%" y="6050" font-size="20">Food</text><text x="15%" y="6100" font-size="20">1886</text><text x="15%" y="6150" font-size="20">308000</text><text x="15%" y="6200" font-size="20">
+            Ulf Mark Schneider
+            Henri Nestlé
+            Paul Bulcke
+        </text><text x="15%" y="6250" font-size="20">Samsung Electronics</text><text x="15%" y="6300" font-size="20">South_Korea</text><text x="15%" y="6350" font-size="20">$272.4 billion </text><text x="15%" y="6400" font-size="20">IT</text><text x="15%" y="6450" font-size="20">13/01/1969</text><text x="15%" y="6500" font-size="20">320671</text><text x="15%" y="6550" font-size="20">
+            Kwon Oh-hyun
+            Lee Kun-hee
+            Young Sohn
+        </text><text x="15%" y="6600" font-size="20">Procter &amp; Gamble</text><text x="15%" y="6650" font-size="20">US</text><text x="15%" y="6700" font-size="20">$265.3 billion </text><text x="15%" y="6750" font-size="20">Consumer goods</text><text x="15%" y="6800" font-size="20">31/10/1837</text><text x="15%" y="6850" font-size="20">97000</text><text x="15%" y="6900" font-size="20">
+            David S. Taylor
+            William Procter
+            James Gamble
+            Jon Moeller
+        </text><text x="15%" y="6950" font-size="20">Royal Dutch Shell</text><text x="15%" y="7000" font-size="20">Netherlands</text><text x="15%" y="7050" font-size="20">$264.9 billion </text><text x="15%" y="7100" font-size="20">Oil and gas</text><text x="15%" y="7150" font-size="20">02/04/1907</text><text x="15%" y="7200" font-size="20">82000</text><text x="15%" y="7250" font-size="20">
+            Ben van Beurden
+            Samuel Samuel
+            Marcus Samuel
+            Charles O. Holliday
+        </text><text x="15%" y="7300" font-size="20">Intel</text><text x="15%" y="7350" font-size="20">US</text><text x="15%" y="7400" font-size="20">$263.1 billion </text><text x="15%" y="7450" font-size="20">IT</text><text x="15%" y="7500" font-size="20">18/07/1968</text><text x="15%" y="7550" font-size="20">110200</text><text x="15%" y="7600" font-size="20">
+            Bob Swan
+            Gordon Moore
+            Robert Noyce
+            Gordon Moore
+            Andy Bryant
+        </text><text x="15%" y="7650" font-size="20">Cisco</text><text x="15%" y="7700" font-size="20">US</text><text x="15%" y="7750" font-size="20">$248.3 billion </text><text x="15%" y="7800" font-size="20">IT</text><text x="15%" y="7850" font-size="20">10/12/1984</text><text x="15%" y="7900" font-size="20">74200</text><text x="15%" y="7950" font-size="20">
+            Charles H. Robbins
+            Leonard Bosack
+            Sandy Lerner
+            Mark Chandler
+            Gerri Elliott
+        </text><text x="15%" y="8000" font-size="20">Mastercard</text><text x="15%" y="8050" font-size="20">US</text><text x="15%" y="8100" font-size="20">$247.1 billion </text><text x="15%" y="8150" font-size="20">Financial</text><text x="15%" y="8200" font-size="20">1966</text><text x="15%" y="8250" font-size="20">13400</text><text x="15%" y="8300" font-size="20">
+            Ajaypal Singh Banga
+            Richard Haythornthwaite
+        </text><text x="15%" y="8350" font-size="20">Verizon Communications</text><text x="15%" y="8400" font-size="20">US</text><text x="15%" y="8450" font-size="20">$239.7 billion </text><text x="15%" y="8500" font-size="20">Telecommunications</text><text x="15%" y="8550" font-size="20">07/10/1983</text><text x="15%" y="8600" font-size="20">139400</text><text x="15%" y="8650" font-size="20">
+            Lowell McAdam
+            Matthew D. Ellis
+        </text><text x="15%" y="8700" font-size="20">Disney</text><text x="15%" y="8750" font-size="20">US</text><text x="15%" y="8800" font-size="20">$238.1 billion </text><text x="15%" y="8850" font-size="20">Entertainment</text><text x="15%" y="8900" font-size="20">16/10/1923</text><text x="15%" y="8950" font-size="20">201000</text><text x="15%" y="9000" font-size="20">
+            Robert Iger
+            Walt Disney
+            Roy O. Disney
+            Christine McCarthy
+        </text><text x="15%" y="9050" font-size="20">AT&amp;T</text><text x="15%" y="9100" font-size="20">US</text><text x="15%" y="9150" font-size="20">$233.3 billion </text><text x="15%" y="9200" font-size="20">Telecommunications</text><text x="15%" y="9250" font-size="20">05/10/1983</text><text x="15%" y="9300" font-size="20">273210</text><text x="15%" y="9350" font-size="20">
+            Randall Stephenson
+            John Stankey
+            John J. Stephens
+        </text><text x="15%" y="9400" font-size="20">Chevron</text><text x="15%" y="9450" font-size="20">US</text><text x="15%" y="9500" font-size="20">$228.3 billion </text><text x="15%" y="9550" font-size="20">Oil and gas</text><text x="15%" y="9600" font-size="20">05/10/1983</text><text x="15%" y="9650" font-size="20">51900</text><text x="15%" y="9700" font-size="20">
+            John Watson
+            Michael Wirth
+        </text><text x="15%" y="9750" font-size="20">Home Depot</text><text x="15%" y="9800" font-size="20">US</text><text x="15%" y="9850" font-size="20">$226.8 billion </text><text x="15%" y="9900" font-size="20">Retail</text><text x="15%" y="9950" font-size="20">1978</text><text x="15%" y="10000" font-size="20">400000</text><text x="15%" y="10050" font-size="20">
+            Craig Menear
+            Bernard Marcus
+            Arthur Blank
+            Ron Brill
+            Richard McPhail
+        </text><text x="15%" y="10100" font-size="20">China Construction Bank</text><text x="15%" y="10150" font-size="20">China</text><text x="15%" y="10200" font-size="20">$225.0 billion </text><text x="15%" y="10250" font-size="20">Financial</text><text x="15%" y="10300" font-size="20">1954</text><text x="15%" y="10350" font-size="20">345971</text><text x="15%" y="10400" font-size="20">
+            Wang Hongzhang
+            Xin Shusen 
+            Zhang Jianguo 
+        </text><text x="15%" y="10450" font-size="20">Nike</text><text x="15%" y="10500" font-size="20">US</text><text x="15%" y="10550" font-size="20">$224.3 billion </text><text x="15%" y="10600" font-size="20">Consumer goods</text><text x="15%" y="10650" font-size="20">25/01/1964</text><text x="15%" y="10700" font-size="20">73100</text><text x="15%" y="10750" font-size="20">
+            Mark Parker
+            Bill Bowerman
+            Phil Knight
+            Phil Knight
+        </text><text x="15%" y="10800" font-size="20">Taiwan Semiconductor</text><text x="15%" y="10850" font-size="20">Taiwan</text><text x="15%" y="10900" font-size="20">$222.4 billion </text><text x="15%" y="10950" font-size="20">Semiconductors</text><text x="15%" y="11000" font-size="20">1987</text><text x="15%" y="11050" font-size="20">48000</text><text x="15%" y="11100" font-size="20">
+            Morris Chang
+            Morris Chang
+            Mark Liu
+        </text></svg>
