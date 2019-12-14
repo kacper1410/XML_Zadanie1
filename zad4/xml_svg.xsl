@@ -22,7 +22,7 @@
 		                var peopleOpacity = text.getAttribute("opacity");
 		                if (peopleOpacity=="0")
 		                    text.setAttribute("opacity", "1");
-		                else if(peopleOpacity=="1")
+		                else
 		                    text.setAttribute("opacity", "0");
 		                }
 	                ]]>
@@ -73,7 +73,6 @@
                 </text>
             </xsl:for-each>
 
-            <!-- TODO companies -->
             <xsl:for-each select="report/company" >
                 <xsl:variable name="position" select="position()*200 + 500" />
                 <xsl:variable name="name" select="name" />
@@ -105,18 +104,19 @@
 
                 <text x="40%" y="{$position}" font-weight="bold" font-size="30" >
                     People:
-                    <animate id="animate" attributeType="XML" attributeName="opacity" dur="3s" from="0" to="1"  />
-                </text>
+<animate id="animate" attributeType="XML" attributeName="opacity" dur="2" from="0" to="1"  />
+        </text>
 
-                <xsl:for-each select="key_people" >
-                    <text x="35%" y="{$position + 40}" font-size="25" onclick="visible(evt)" opacity="0">
-                        <xsl:value-of select="." />
-                    </text>
-                </xsl:for-each>
+<xsl:for-each select="key_people" >
+<text x="35%" y="{$position + 40}" font-size="25" onclick="visible(evt)">
+    <xsl:value-of select="." />
+    <animate id="animate" attributeType="XML" attributeName="opacity" dur="3s" from="0" to="1"  />
+</text>
+</xsl:for-each>
 
-            </xsl:for-each>
+        </xsl:for-each>
 
         </svg>
-    </xsl:template>
+        </xsl:template>
 
-</xsl:stylesheet>
+        </xsl:stylesheet>
