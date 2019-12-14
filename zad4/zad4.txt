@@ -1,3 +1,7 @@
+Authors: 
+Kacper Świercz 224443
+Patryk Kolanek 224333
+ |          NAME           |   COUNTRY   |      VALUE      |      INDUSTRY      |   FOUNDED  |EMPLOYEES|       KEY PEOPLE       |
  ********************************************************************************************************************************
  | Apple                   | US          | $961.3 billion  | IT                 | 01/04/1976 | 132000  | Tim Cook               |
  |                         |             |                 |                    |            |         | Steve Jobs             |
@@ -145,3 +149,31 @@
  |                         |             |                 |                    |            |         | Morris Chang           |
  |                         |             |                 |                    |            |         | Mark Liu               |
  ********************************************************************************************************************************
+
+Statistics:
+Companies number:        30
+Industries number:       12
+Companies per industry:  
+                         IT                 6
+                         Conglomerate       4
+                         Social_media       1
+                         Financial          6
+                         Medical            1
+                         Oil_and_gas        3
+                         Retail             2
+                         Food               1
+                         Consumer_goods     2
+                         Telecommunications 2
+                         Entertainment      1
+                         Semiconductors     1
+Companies per country:   
+                         US             22
+                         China          4
+                         Switzerland    1
+                         South_Korea    1
+                         South_Korea    1
+                         Netherlands    1
+                         Taiwan         1
+                         Poland         0
+Average employees:       249517.63333333333
+Average key people:      3.8666666666666667
