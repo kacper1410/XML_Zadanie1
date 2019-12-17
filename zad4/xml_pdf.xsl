@@ -25,7 +25,7 @@
                 </fo:static-content>
                 <fo:static-content flow-name="xsl-region-after">
                     <fo:block font-size="10pt" text-align="right">
-                        Strona <fo:page-number/>
+                        Page <fo:page-number/>
                     </fo:block>
                 </fo:static-content>
 
