@@ -25,7 +25,7 @@
             </thead>
             <tbody>
                 <tr style="text-align:center;">
-                    <td>Apple</td><td>US</td><td>$961.3 billion </td><td>IT</td><td>01/04/1976</td><td>CEO - Tim Cook
+                    <td id="1">Apple</td><td>US</td><td>$961.3 billion </td><td>IT</td><td>01/04/1976</td><td>CEO - Tim Cook
                         <br>
                         Founder - Steve Jobs
                         <br>
@@ -352,8 +352,11 @@
 
 
         <div id="main" style="width: 100%; height: 110px; border: 1px solid black; position: static;">
-        	<div onmouseout="check()" onmousemove="zero()" id="left" style="width: 49%; height: 50px; border: 1px solid black; float: left;"></div>
-        	<div onclick="check()" id="rigth" style="width: 49%; height: 50px; border: 1px solid black; float: left;"></div>
+        	<div style="width: 100%; float: left; height: 20px; text-align: center;"> Najwspanialsza gra na świecie !</div>
+        	<div onmouseout="check()" onmousemove="zero()" id="left" style="width: 49.8%; height: 50px; border: 1px solid black; float: left; text-align: center;"></div>
+        	<div onclick="check()" id="rigth" style="width: 49.8%; height: 50px; border: 1px solid black; float: left; text-align: center;"></div>
+
+        	<!-- <button>Losuj</button> -->
         </div>
 
         <script>
@@ -414,11 +417,16 @@
 			}
 
 			function check() {
+				var names = [ "Apple", "Google" ];
+				var values = [ 5, 9 ];
+
 				var left = document.getElementById("left");
 				var rigth = document.getElementById("rigth");
 
-				left.innerHTML = "haha";
-				rigth.innerHTML = "hehe";
+				var tablica = [document.getElementById("")]
+
+				left.innerHTML = names[0];
+				rigth.innerHTML = values[1];
 			}
 
 			function zero() {
