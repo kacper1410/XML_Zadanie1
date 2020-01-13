@@ -7,28 +7,147 @@
     </head>
 
     <body>
-        <div id="main" style="">
-        	<div onmouseout="check()" onmousemove="zero()" id="left" ></div>
-        	<div onclick="check()" id="right"></div>
+        <div id="main">
+            <div id="top"><p>Which one is more valueable?</p></div>
+
+        	<div onclick="leftFunction()" id="left">
+                <p id="leftP"></p>
+                <div id="leftSqr">
+                    <img id="leftImg" src="0.jpg" width="240px" height="150px">
+                </div>
+            </div>
+
+        	<div onclick="rightFunction()" id="right">
+                <p id="rightP"></p>
+                <div id="rightSqr">
+                    <img id="rightImg" src="2.jpg" width="240px" height="150px">
+                </div>
+            </div>
+
+            <div id="down">
+                <div id="downLeft">
+                    <p id="downLeftP"></p>
+                </div>
+                <div id="downRight">
+                    <p id="downRightP"></p>
+                </div>
+            </div>
         </div>
 
         <script>
+            var lives = prompt("Let's play the game!");
+            var names = 
+                ["Apple", "Microsoft", "Amazon",
+                 "Alphabet", "Berkshire Hathaway", "Facebook",
+                 "Alibaba", "Tencent Holdings", "JPMorgan Chase",
+                 "Johnson & Johnson", "Visa", "ExxonMobil",
+                 "ICBC", "Walmart", "Bank of America", 
+                 "Nestle", "Samsung Electronics", "Procter & Gamble", 
+                 "Royal Dutch Shell", "Intel", "Cisco", 
+                 "Mastercard", "Verizon Communications", "Disney", 
+                 "AT&T", "Chevron", "Home Depot", 
+                 "China Construction Bank", "Nike", "Taiwan Semiconductor"]
 
-			function check() {
-				var left = document.getElementById("left");
-				var rigth = document.getElementById("right");
+            // var values = 
+            //      [961.3, 946.5, 916.1,
+            //      863.2, 516.4, 512,
+            //      480.8, 472.1, 368.5,
+            //      366.2, 351.9, 343.4,
+            //      305.1, 296.1, 287.3,
+            //      281.3, 272.4, 265.3,
+            //      264.9, 263.1, 248.3,
+            //      247.1, 239.7, 238.1,
+            //      233.3, 228.3, 226.8,
+            //      225, 224.3, 222.4]
+            // var x = ;
 
-				left.innerHTML = "haha";
-				right.innerHTML = "hehe";
+            
+
+            var left = document.getElementById("leftP");
+            var right = document.getElementById("rightP");
+            var downLeft = document.getElementById("downLeftP");
+            var downRight = document.getElementById("downRight");
+
+            var x = rand();
+            var y = rand();
+
+            while(x == y) { y = rand() }
+
+            left.innerHTML = names[x];
+            right.innerHTML = names[y];
+            
+            setImg();
+
+            var score = 0;
+
+            setScoreAndLives();
+            
+
+			function leftFunction() {
+                if(x < y) {
+                    score++;
+                    alert("Good!");
+                }
+                else {
+                    lives--;
+                    alert("Bad!");
+                }
+
+                if(lives <= 0) {
+                    alert("You lost!\nYour score: " + score);
+                    score = 0;
+                    lives = 3;
+                }
+
+				setCompany();
+                setScoreAndLives();
+                setImg();
 			}
 
-			function zero() {
-				var left = document.getElementById("left");
-				var rigth = document.getElementById("right");
+			function rightFunction() {
+				if(x > y) {
+                    score++;
+                    alert("Good!");
+                }
+                else {
+                    lives--;
+                    alert("Bad!");
+                }
 
-				left.innerHTML = "";
-				right.innerHTML = "";
+                if(lives <= 0) {
+                    alert("You lost!\nYour score: " + score);
+                    score = 0;
+                    lives = 3;
+                }
+
+                setCompany();
+                setScoreAndLives();
+                setImg();
 			}
+
+            function setCompany() {
+                x = rand();
+                y = rand();
+
+                while(x == y) { y = rand() }
+
+                left.innerHTML = names[x];
+                right.innerHTML = names[y];    
+            }
+
+            function setScoreAndLives() {
+                downLeftP.innerHTML = "Lives: " + lives;
+                downRightP.innerHTML = "Score: " + score;
+            }
+
+            function rand() {
+                return Math.floor(Math.random()*29);
+            }
+
+            function setImg() {
+                document.getElementById("leftImg").setAttribute("src", x + ".png");
+                document.getElementById("rightImg").setAttribute("src", y + ".png");
+            }
 		</script>
     </body>
 </html>
