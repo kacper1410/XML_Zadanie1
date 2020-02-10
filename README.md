@@ -1,2 +1,2 @@
-# XML_Zadanie1
-Jakieś zadanie, trzeba na studia zrobić 
+# XML_Zadanie
+Zadania związane z poznawaniem technologii XML
